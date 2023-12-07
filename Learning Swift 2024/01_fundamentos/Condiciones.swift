@@ -19,3 +19,4 @@ func checarTemperatura() {
 
     // Prints "It's really warm. Don't forget to wear sunscreen."
 }
+

@@ -9,6 +9,7 @@ Learning Swift 2024.xcodeproj/
 ## Xcode 8 and earlier
 *.xcscmblueprint
 *.xccheckout
+.idea/
 
 .DS_Store
 ### Xcode Patch ###

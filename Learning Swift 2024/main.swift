@@ -7,6 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
-checarTemperatura()
+print("Programando en Swift...")
+opcionales()
 
