@@ -12,6 +12,13 @@
 		BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED25A432B1E8CA700133A14 /* Condiciones.swift */; };
 		BED3FAEB2B22927F004A0478 /* ManejoErrores.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAEA2B22927F004A0478 /* ManejoErrores.swift */; };
 		BED3FAEE2B229C4B004A0478 /* AssertEdad.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAED2B229C4B004A0478 /* AssertEdad.swift */; };
+		BED3FAF02B22A0D7004A0478 /* LadronDelTesoro.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAEF2B22A0D7004A0478 /* LadronDelTesoro.swift */; };
+		BED3FAF22B22A11A004A0478 /* LaExpulsion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAF12B22A11A004A0478 /* LaExpulsion.swift */; };
+		BED3FAF42B22A162004A0478 /* IncorporacionDePiratas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAF32B22A162004A0478 /* IncorporacionDePiratas.swift */; };
+		BED3FAF62B22A194004A0478 /* LaContrasenia.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAF52B22A194004A0478 /* LaContrasenia.swift */; };
+		BED3FAF82B22A205004A0478 /* LaClaveDeLosCofres.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAF72B22A205004A0478 /* LaClaveDeLosCofres.swift */; };
+		BED3FAFA2B22A22F004A0478 /* RacionamientoDelRon.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAF92B22A22F004A0478 /* RacionamientoDelRon.swift */; };
+		BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +40,13 @@
 		BED25A432B1E8CA700133A14 /* Condiciones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Condiciones.swift; sourceTree = "<group>"; };
 		BED3FAEA2B22927F004A0478 /* ManejoErrores.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManejoErrores.swift; sourceTree = "<group>"; };
 		BED3FAED2B229C4B004A0478 /* AssertEdad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssertEdad.swift; sourceTree = "<group>"; };
+		BED3FAEF2B22A0D7004A0478 /* LadronDelTesoro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LadronDelTesoro.swift; sourceTree = "<group>"; };
+		BED3FAF12B22A11A004A0478 /* LaExpulsion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaExpulsion.swift; sourceTree = "<group>"; };
+		BED3FAF32B22A162004A0478 /* IncorporacionDePiratas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncorporacionDePiratas.swift; sourceTree = "<group>"; };
+		BED3FAF52B22A194004A0478 /* LaContrasenia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaContrasenia.swift; sourceTree = "<group>"; };
+		BED3FAF72B22A205004A0478 /* LaClaveDeLosCofres.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaClaveDeLosCofres.swift; sourceTree = "<group>"; };
+		BED3FAF92B22A22F004A0478 /* RacionamientoDelRon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RacionamientoDelRon.swift; sourceTree = "<group>"; };
+		BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteligenciaPirata.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +91,13 @@
 			children = (
 				BED25A432B1E8CA700133A14 /* Condiciones.swift */,
 				AE60E9557A19EC8AEA91958A /* Opcionales.swift */,
+				BED3FAEF2B22A0D7004A0478 /* LadronDelTesoro.swift */,
+				BED3FAF12B22A11A004A0478 /* LaExpulsion.swift */,
+				BED3FAF32B22A162004A0478 /* IncorporacionDePiratas.swift */,
+				BED3FAF52B22A194004A0478 /* LaContrasenia.swift */,
+				BED3FAF72B22A205004A0478 /* LaClaveDeLosCofres.swift */,
+				BED3FAF92B22A22F004A0478 /* RacionamientoDelRon.swift */,
+				BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */,
 			);
 			path = 01_fundamentos;
 			sourceTree = "<group>";
@@ -148,11 +169,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BED3FAF62B22A194004A0478 /* LaContrasenia.swift in Sources */,
 				BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */,
 				BED25A3C2B1E8AF200133A14 /* main.swift in Sources */,
+				BED3FAF42B22A162004A0478 /* IncorporacionDePiratas.swift in Sources */,
+				BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */,
+				BED3FAF82B22A205004A0478 /* LaClaveDeLosCofres.swift in Sources */,
 				BED3FAEB2B22927F004A0478 /* ManejoErrores.swift in Sources */,
+				BED3FAF22B22A11A004A0478 /* LaExpulsion.swift in Sources */,
 				BED3FAEE2B229C4B004A0478 /* AssertEdad.swift in Sources */,
 				AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */,
+				BED3FAF02B22A0D7004A0478 /* LadronDelTesoro.swift in Sources */,
+				BED3FAFA2B22A22F004A0478 /* RacionamientoDelRon.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
