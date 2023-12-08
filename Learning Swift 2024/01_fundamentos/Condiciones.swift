@@ -7,8 +7,7 @@
 
 import Foundation
 
-func checarTemperatura() {
-    let temperatureInFahrenheit = 90
+func checarTemperatura(temperatureInFahrenheit: Float) {
     if temperatureInFahrenheit <= 32 {
         print("It's very cold. Consider wearing a scarf.")
     } else if temperatureInFahrenheit >= 86 {

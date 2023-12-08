@@ -10,6 +10,8 @@
 		AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE60E9557A19EC8AEA91958A /* Opcionales.swift */; };
 		BED25A3C2B1E8AF200133A14 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED25A3B2B1E8AF200133A14 /* main.swift */; };
 		BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED25A432B1E8CA700133A14 /* Condiciones.swift */; };
+		BED3FAEB2B22927F004A0478 /* ManejoErrores.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAEA2B22927F004A0478 /* ManejoErrores.swift */; };
+		BED3FAEE2B229C4B004A0478 /* AssertEdad.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAED2B229C4B004A0478 /* AssertEdad.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +31,8 @@
 		BED25A382B1E8AF200133A14 /* Learning Swift 2024 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Learning Swift 2024"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BED25A3B2B1E8AF200133A14 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		BED25A432B1E8CA700133A14 /* Condiciones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Condiciones.swift; sourceTree = "<group>"; };
+		BED3FAEA2B22927F004A0478 /* ManejoErrores.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManejoErrores.swift; sourceTree = "<group>"; };
+		BED3FAED2B229C4B004A0478 /* AssertEdad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssertEdad.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,7 @@
 		BED25A3A2B1E8AF200133A14 /* Learning Swift 2024 */ = {
 			isa = PBXGroup;
 			children = (
+				BED3FAEC2B229A04004A0478 /* 10_manejo_de_errores */,
 				BED25A422B1E8C8900133A14 /* 01_fundamentos */,
 				BED25A3B2B1E8AF200133A14 /* main.swift */,
 			);
@@ -74,6 +79,15 @@
 				AE60E9557A19EC8AEA91958A /* Opcionales.swift */,
 			);
 			path = 01_fundamentos;
+			sourceTree = "<group>";
+		};
+		BED3FAEC2B229A04004A0478 /* 10_manejo_de_errores */ = {
+			isa = PBXGroup;
+			children = (
+				BED3FAEA2B22927F004A0478 /* ManejoErrores.swift */,
+				BED3FAED2B229C4B004A0478 /* AssertEdad.swift */,
+			);
+			path = 10_manejo_de_errores;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,6 +150,8 @@
 			files = (
 				BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */,
 				BED25A3C2B1E8AF200133A14 /* main.swift in Sources */,
+				BED3FAEB2B22927F004A0478 /* ManejoErrores.swift in Sources */,
+				BED3FAEE2B229C4B004A0478 /* AssertEdad.swift in Sources */,
 				AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -177,6 +193,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -240,6 +257,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -265,6 +283,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = B2WJKSXMKJ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,6 +295,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = B2WJKSXMKJ;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";

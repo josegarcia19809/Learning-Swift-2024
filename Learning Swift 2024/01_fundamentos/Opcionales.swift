@@ -7,10 +7,10 @@ import Foundation
 func opcionales() {
     let possibleNumber = "123"
     let convertedNumber = Int(possibleNumber)
-    print(convertedNumber) // Optional(123)
+    print(convertedNumber ?? 0) // Optional(123)
 
     var serverResponseCode: Int? = 404
-    print(serverResponseCode) // Optional(404)
+    print(serverResponseCode ?? 0) // Optional(404)
 
     // Si estoy seguro que el valor no es nulo
     print(serverResponseCode!) // 404
@@ -40,7 +40,7 @@ func opcionales() {
     var myString1: String?
     myString1 = "test"
     if myString1 != nil {
-        var test = myString1!
+        let test = myString1!
         print(test)
     }
 
