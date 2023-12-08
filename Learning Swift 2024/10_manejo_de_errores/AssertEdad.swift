@@ -23,3 +23,8 @@ func pruebaEdadPositiva2(age: Int){
         assertionFailure("La edad no puede ser negativa")
     }
 }
+
+func precondiciones(){
+    let index = -1
+    precondition(index >= 0, "Los índices deben ser mayores o iguales a cero")
+}

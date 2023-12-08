@@ -8,6 +8,5 @@
 import Foundation
 
 print("Programando en Swift...")
-lanzarError()
-pruebaEdadPositiva2(age: -8)
+precondiciones()
 
