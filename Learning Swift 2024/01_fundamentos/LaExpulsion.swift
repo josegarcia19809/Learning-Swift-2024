@@ -16,3 +16,9 @@
  ¿Cuál sería la forma óptima para almacenar el nombre del pirata y el mensaje?
  */
 import Foundation
+
+func mensajeExpulsion(){
+    let mensaje: String = "has sido una deshonra para mí y la tripulación, eres un obstáculo para nuestro destino pirata."
+    var nombrePirata: String = "Mary"
+    print("\(nombrePirata) \(mensaje)")
+}
