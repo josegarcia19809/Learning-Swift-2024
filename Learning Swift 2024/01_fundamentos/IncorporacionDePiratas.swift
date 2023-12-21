@@ -17,6 +17,30 @@
 
  Suponiendo que los piratas fallecidos son Juanjo, Marco, Pedro y Toni y los nuevos piratas son Alejandro, Cristóbal, Mario y Javier. El programa tiene que generar el mensaje:
 
- Los 4 piratas que han fallecido en combate son: ["Juanjo", "Marco", "Pedro", "Toni"] Los 4 nuevos miembros de ésta tripulación son: ["Alejandro", "Cristóbal", "Mario", "Javier"] Tuesday, July 4, 2017
+ Los 4 piratas que han fallecido en combate son: ["Juanjo", "Marco", "Pedro", "Toni"] 
+ Los 4 nuevos miembros de ésta tripulación son: ["Alejandro", "Cristóbal", "Mario", "Javier"]
+ Tuesday, July 4, 2017
  */
 import Foundation
+
+func IncorporacionPiratas(){
+    
+    var piratasFallecidos = ["Juanjo", "Marco", "Pedro", "Toni"]
+    var nuevosPiratas = ["Alejandro", "Cristóbal", "Mario", "Javier"]
+    
+    let numeroPiratasFallecidos = piratasFallecidos.count
+    let numeroNuevosPiratas = nuevosPiratas.count
+    
+    let mensajePiratasFallecidos = "Los \(numeroPiratasFallecidos) piratas que han fallecido en combate son: "
+    let mensajeNuevosPiratas = "Los \(numeroNuevosPiratas) nuevos miembros de ésta tripulación son: "
+    
+    print("\(mensajePiratasFallecidos)\(piratasFallecidos)")
+    print("\(mensajeNuevosPiratas)\(nuevosPiratas)")
+    
+    // Imprimir la fecha
+    let fecha = Date()
+    let formatoFecha = DateFormatter()
+    formatoFecha.dateStyle = .full
+    formatoFecha.timeStyle = .full
+    print(formatoFecha.string(from: fecha))
+}

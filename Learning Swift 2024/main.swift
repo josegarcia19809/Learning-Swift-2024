@@ -8,5 +8,5 @@
 import Foundation
 
 print("Programando en Swift...")
-mensajeExpulsion()
+IncorporacionPiratas()
 
