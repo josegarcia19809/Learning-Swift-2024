@@ -14,3 +14,18 @@
  El programa le da como resultado las claves: 1010110011, 531, 2087. ¿Cuál es el programa en swift que contiene la máquina?
  */
 import Foundation
+
+func claveCofres(){
+    let num1 = 691
+    let num2 = 345
+    let num3 = 827
+    
+    let numBinario = String(num1, radix: 2)
+    let numOctal = String(num2, radix: 8)
+    let numHexadecimal = String(num3, radix: 16)
+    
+    print("Claves de los cofres:")
+    print("Cofre 1: \(numBinario)")
+    print("Cofre 1: \(numOctal)")
+    print("Cofre 1: \(numHexadecimal)")
+}
