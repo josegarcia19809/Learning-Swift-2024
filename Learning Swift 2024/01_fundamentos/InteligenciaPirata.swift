@@ -14,3 +14,14 @@
  ¿Qué programa se te ocurre para ayudar al capitán de forma que pueda ver quiénes han sido los mejores y cuántas veces y, quieren nunca han sido los mejores?
  */
 import Foundation
+
+func InteligenciaPirata(){
+    var piratas = [(String, Int)]()
+    piratas = [("José",1), ("Antonio",0), ("Pedro", 0), ("Juan",1)]
+    
+    
+    for pirata in piratas {
+        print("\(pirata.0) tiene premio: \(pirata.1)")
+    }
+    print()
+}
