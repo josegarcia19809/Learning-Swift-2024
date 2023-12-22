@@ -25,8 +25,8 @@ import Foundation
 
 func IncorporacionPiratas(){
     
-    var piratasFallecidos = ["Juanjo", "Marco", "Pedro", "Toni"]
-    var nuevosPiratas = ["Alejandro", "Cristóbal", "Mario", "Javier"]
+    let piratasFallecidos = ["Juanjo", "Marco", "Pedro", "Toni"]
+    let nuevosPiratas = ["Alejandro", "Cristóbal", "Mario", "Javier"]
     
     let numeroPiratasFallecidos = piratasFallecidos.count
     let numeroNuevosPiratas = nuevosPiratas.count
