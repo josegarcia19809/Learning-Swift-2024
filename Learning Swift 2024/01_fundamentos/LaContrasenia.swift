@@ -18,3 +18,10 @@
  ¿Cuál es el programa que contiene la máquina? Es importante remarcar que el programa tiene que ser óptimo porque los cálculos dan números muy grandes!
  */
 import Foundation
+func calcularContrasenia(){
+    let edadCapitan: UInt8 = 35
+    let aniosDeCapitan: UInt8 = 12
+    
+    let password: UInt64 = UInt64(pow(Double(edadCapitan), Double(aniosDeCapitan)))
+    print("Contraseña del timón \(password)")
+}
