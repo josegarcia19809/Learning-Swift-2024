@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE60E9557A19EC8AEA91958A /* Opcionales.swift */; };
+		BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964B2B391C00007E6192 /* Multiplicacion.swift */; };
+		BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964D2B391DD2007E6192 /* Sumando.swift */; };
+		BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */; };
 		BED25A3C2B1E8AF200133A14 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED25A3B2B1E8AF200133A14 /* main.swift */; };
 		BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED25A432B1E8CA700133A14 /* Condiciones.swift */; };
 		BED3FAEB2B22927F004A0478 /* ManejoErrores.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAEA2B22927F004A0478 /* ManejoErrores.swift */; };
@@ -35,6 +38,9 @@
 
 /* Begin PBXFileReference section */
 		AE60E9557A19EC8AEA91958A /* Opcionales.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Opcionales.swift; sourceTree = "<group>"; };
+		BEC1964B2B391C00007E6192 /* Multiplicacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiplicacion.swift; sourceTree = "<group>"; };
+		BEC1964D2B391DD2007E6192 /* Sumando.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sumando.swift; sourceTree = "<group>"; };
+		BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcesandoClosures.swift; sourceTree = "<group>"; };
 		BED25A382B1E8AF200133A14 /* Learning Swift 2024 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Learning Swift 2024"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BED25A3B2B1E8AF200133A14 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		BED25A432B1E8CA700133A14 /* Condiciones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Condiciones.swift; sourceTree = "<group>"; };
@@ -60,6 +66,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BEC1964A2B391BE4007E6192 /* 11_closures */ = {
+			isa = PBXGroup;
+			children = (
+				BEC1964B2B391C00007E6192 /* Multiplicacion.swift */,
+				BEC1964D2B391DD2007E6192 /* Sumando.swift */,
+				BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */,
+			);
+			path = 11_closures;
+			sourceTree = "<group>";
+		};
 		BED25A2F2B1E8AF200133A14 = {
 			isa = PBXGroup;
 			children = (
@@ -79,6 +95,7 @@
 		BED25A3A2B1E8AF200133A14 /* Learning Swift 2024 */ = {
 			isa = PBXGroup;
 			children = (
+				BEC1964A2B391BE4007E6192 /* 11_closures */,
 				BED3FAEC2B229A04004A0478 /* 10_manejo_de_errores */,
 				BED25A422B1E8C8900133A14 /* 01_fundamentos */,
 				BED25A3B2B1E8AF200133A14 /* main.swift */,
@@ -172,12 +189,15 @@
 				BED3FAF62B22A194004A0478 /* LaContrasenia.swift in Sources */,
 				BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */,
 				BED25A3C2B1E8AF200133A14 /* main.swift in Sources */,
+				BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */,
+				BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */,
 				BED3FAF42B22A162004A0478 /* IncorporacionDePiratas.swift in Sources */,
 				BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */,
 				BED3FAF82B22A205004A0478 /* LaClaveDeLosCofres.swift in Sources */,
 				BED3FAEB2B22927F004A0478 /* ManejoErrores.swift in Sources */,
 				BED3FAF22B22A11A004A0478 /* LaExpulsion.swift in Sources */,
 				BED3FAEE2B229C4B004A0478 /* AssertEdad.swift in Sources */,
+				BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */,
 				AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */,
 				BED3FAF02B22A0D7004A0478 /* LadronDelTesoro.swift in Sources */,
 				BED3FAFA2B22A22F004A0478 /* RacionamientoDelRon.swift in Sources */,
