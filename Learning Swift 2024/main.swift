@@ -8,5 +8,9 @@
 import Foundation
 
 print("Programando en Swift...")
-InteligenciaPirata()
+pruebaProcesandoClosure()
+pruebaProcesandoClosure2()
+pruebaProcesandoClosure3()
+pruebaProcesandoClosure4()
+pruebaProcesandoClosure5()
 
