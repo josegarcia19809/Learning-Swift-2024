@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE60E9557A19EC8AEA91958A /* Opcionales.swift */; };
 		BE72D0612B7F0205005A01DF /* Suma2Numeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0602B7F0205005A01DF /* Suma2Numeros.swift */; };
+		BE72D0632B7F03B8005A01DF /* PrediccionVentas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0622B7F03B8005A01DF /* PrediccionVentas.swift */; };
 		BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964B2B391C00007E6192 /* Multiplicacion.swift */; };
 		BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964D2B391DD2007E6192 /* Sumando.swift */; };
 		BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */; };
@@ -40,6 +41,7 @@
 /* Begin PBXFileReference section */
 		AE60E9557A19EC8AEA91958A /* Opcionales.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Opcionales.swift; sourceTree = "<group>"; };
 		BE72D0602B7F0205005A01DF /* Suma2Numeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Suma2Numeros.swift; sourceTree = "<group>"; };
+		BE72D0622B7F03B8005A01DF /* PrediccionVentas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrediccionVentas.swift; sourceTree = "<group>"; };
 		BEC1964B2B391C00007E6192 /* Multiplicacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiplicacion.swift; sourceTree = "<group>"; };
 		BEC1964D2B391DD2007E6192 /* Sumando.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sumando.swift; sourceTree = "<group>"; };
 		BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcesandoClosures.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				BED3FAF92B22A22F004A0478 /* RacionamientoDelRon.swift */,
 				BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */,
 				BE72D0602B7F0205005A01DF /* Suma2Numeros.swift */,
+				BE72D0622B7F03B8005A01DF /* PrediccionVentas.swift */,
 			);
 			path = 01_fundamentos;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */,
 				BED25A3C2B1E8AF200133A14 /* main.swift in Sources */,
 				BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */,
+				BE72D0632B7F03B8005A01DF /* PrediccionVentas.swift in Sources */,
 				BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */,
 				BED3FAF42B22A162004A0478 /* IncorporacionDePiratas.swift in Sources */,
 				BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */,
