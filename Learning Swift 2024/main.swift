@@ -8,5 +8,4 @@
 import Foundation
 
 print("Programando en Swift...")
-prediccionVentas()
-
+impuestoVentas()

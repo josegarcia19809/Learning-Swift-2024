@@ -3,9 +3,10 @@
 
 ### Xcode ###
 ## User settings
-xcuserdata/
+xcuserdata
 ./project.xcworkspace/
-Learning Swift 2024.xcodeproj/
+./Learning Swift 2024.xcodeproj/*
+./Learning Swift 2024.xcodeproj/project.pbxproj
 ## Xcode 8 and earlier
 *.xcscmblueprint
 *.xccheckout
@@ -13,6 +14,7 @@ Learning Swift 2024.xcodeproj/
 
 .DS_Store
 ### Xcode Patch ###
+./*.xcodeproj
 *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
 !*.xcodeproj/xcshareddata/
