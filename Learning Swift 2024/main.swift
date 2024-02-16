@@ -8,9 +8,5 @@
 import Foundation
 
 print("Programando en Swift...")
-pruebaProcesandoClosure()
-pruebaProcesandoClosure2()
-pruebaProcesandoClosure3()
-pruebaProcesandoClosure4()
-pruebaProcesandoClosure5()
+suma2Numeros()
 
