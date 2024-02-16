@@ -6,3 +6,14 @@
 //
 
 import Foundation
+
+func pedirEdad(){
+    print("Escribe una edad:")
+    let edad = Int(readLine()!)
+    if edad! >= 18 {
+        print("Eres mayor de edad")
+    } else {
+        print("No eres mayor de edad")
+    }
+    
+}
