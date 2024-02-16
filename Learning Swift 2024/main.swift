@@ -8,4 +8,4 @@
 import Foundation
 
 print("Programando en Swift...")
-tiposVariables()
+basicosCadenas()
