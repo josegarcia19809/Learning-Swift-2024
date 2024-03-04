@@ -10,6 +10,7 @@
 		AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE60E9557A19EC8AEA91958A /* Opcionales.swift */; };
 		BE2776F72B91652400C704C8 /* division_entre_cero.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F62B91652400C704C8 /* division_entre_cero.swift */; };
 		BE2776F92B9167DE00C704C8 /* taquilla_cine.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */; };
+		BE378E2D2B956EF600EF170C /* bonificacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE378E2C2B956EF600EF170C /* bonificacion.swift */; };
 		BE4D841E2B7F9B6C00B6504F /* HolaMundo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D841D2B7F9B6C00B6504F /* HolaMundo.swift */; };
 		BE4D84202B7F9BEF00B6504F /* PedirEdad.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D841F2B7F9BEF00B6504F /* PedirEdad.swift */; };
 		BE4D84222B7FA45A00B6504F /* TextoMultilinea.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D84212B7FA45A00B6504F /* TextoMultilinea.swift */; };
@@ -51,6 +52,7 @@
 		AE60E9557A19EC8AEA91958A /* Opcionales.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Opcionales.swift; sourceTree = "<group>"; };
 		BE2776F62B91652400C704C8 /* division_entre_cero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_entre_cero.swift; sourceTree = "<group>"; };
 		BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taquilla_cine.swift; sourceTree = "<group>"; };
+		BE378E2C2B956EF600EF170C /* bonificacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bonificacion.swift; sourceTree = "<group>"; };
 		BE4D841D2B7F9B6C00B6504F /* HolaMundo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HolaMundo.swift; sourceTree = "<group>"; };
 		BE4D841F2B7F9BEF00B6504F /* PedirEdad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PedirEdad.swift; sourceTree = "<group>"; };
 		BE4D84212B7FA45A00B6504F /* TextoMultilinea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextoMultilinea.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				BE2776F62B91652400C704C8 /* division_entre_cero.swift */,
+				BE378E2C2B956EF600EF170C /* bonificacion.swift */,
 			);
 			path = 02_condiciones;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 				BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */,
 				BE72D0632B7F03B8005A01DF /* PrediccionVentas.swift in Sources */,
 				BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */,
+				BE378E2D2B956EF600EF170C /* bonificacion.swift in Sources */,
 				BED3FAF42B22A162004A0478 /* IncorporacionDePiratas.swift in Sources */,
 				BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */,
 				BED3FAF82B22A205004A0478 /* LaClaveDeLosCofres.swift in Sources */,
