@@ -11,6 +11,7 @@
 		BE2776F72B91652400C704C8 /* division_entre_cero.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F62B91652400C704C8 /* division_entre_cero.swift */; };
 		BE2776F92B9167DE00C704C8 /* taquilla_cine.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */; };
 		BE378E2D2B956EF600EF170C /* bonificacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE378E2C2B956EF600EF170C /* bonificacion.swift */; };
+		BE378E2F2B9570E300EF170C /* condicion_imprimir.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE378E2E2B9570E300EF170C /* condicion_imprimir.swift */; };
 		BE4D841E2B7F9B6C00B6504F /* HolaMundo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D841D2B7F9B6C00B6504F /* HolaMundo.swift */; };
 		BE4D84202B7F9BEF00B6504F /* PedirEdad.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D841F2B7F9BEF00B6504F /* PedirEdad.swift */; };
 		BE4D84222B7FA45A00B6504F /* TextoMultilinea.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D84212B7FA45A00B6504F /* TextoMultilinea.swift */; };
@@ -53,6 +54,7 @@
 		BE2776F62B91652400C704C8 /* division_entre_cero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_entre_cero.swift; sourceTree = "<group>"; };
 		BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taquilla_cine.swift; sourceTree = "<group>"; };
 		BE378E2C2B956EF600EF170C /* bonificacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bonificacion.swift; sourceTree = "<group>"; };
+		BE378E2E2B9570E300EF170C /* condicion_imprimir.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = condicion_imprimir.swift; sourceTree = "<group>"; };
 		BE4D841D2B7F9B6C00B6504F /* HolaMundo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HolaMundo.swift; sourceTree = "<group>"; };
 		BE4D841F2B7F9BEF00B6504F /* PedirEdad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PedirEdad.swift; sourceTree = "<group>"; };
 		BE4D84212B7FA45A00B6504F /* TextoMultilinea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextoMultilinea.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 			children = (
 				BE2776F62B91652400C704C8 /* division_entre_cero.swift */,
 				BE378E2C2B956EF600EF170C /* bonificacion.swift */,
+				BE378E2E2B9570E300EF170C /* condicion_imprimir.swift */,
 			);
 			path = 02_condiciones;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BED3FAF62B22A194004A0478 /* LaContrasenia.swift in Sources */,
+				BE378E2F2B9570E300EF170C /* condicion_imprimir.swift in Sources */,
 				BE4D841E2B7F9B6C00B6504F /* HolaMundo.swift in Sources */,
 				BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */,
 				BE72D0672B7F095E005A01DF /* FacturaRestaurante.swift in Sources */,
