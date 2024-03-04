@@ -13,6 +13,7 @@
 		BE378E2D2B956EF600EF170C /* bonificacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE378E2C2B956EF600EF170C /* bonificacion.swift */; };
 		BE378E2F2B9570E300EF170C /* condicion_imprimir.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE378E2E2B9570E300EF170C /* condicion_imprimir.swift */; };
 		BE378E312B9571AF00EF170C /* mensaje_felicitacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE378E302B9571AF00EF170C /* mensaje_felicitacion.swift */; };
+		BE378E332B95753200EF170C /* ManipulacionStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE378E322B95753200EF170C /* ManipulacionStrings.swift */; };
 		BE4D841E2B7F9B6C00B6504F /* HolaMundo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D841D2B7F9B6C00B6504F /* HolaMundo.swift */; };
 		BE4D84202B7F9BEF00B6504F /* PedirEdad.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D841F2B7F9BEF00B6504F /* PedirEdad.swift */; };
 		BE4D84222B7FA45A00B6504F /* TextoMultilinea.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D84212B7FA45A00B6504F /* TextoMultilinea.swift */; };
@@ -57,6 +58,7 @@
 		BE378E2C2B956EF600EF170C /* bonificacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bonificacion.swift; sourceTree = "<group>"; };
 		BE378E2E2B9570E300EF170C /* condicion_imprimir.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = condicion_imprimir.swift; sourceTree = "<group>"; };
 		BE378E302B9571AF00EF170C /* mensaje_felicitacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mensaje_felicitacion.swift; sourceTree = "<group>"; };
+		BE378E322B95753200EF170C /* ManipulacionStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManipulacionStrings.swift; sourceTree = "<group>"; };
 		BE4D841D2B7F9B6C00B6504F /* HolaMundo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HolaMundo.swift; sourceTree = "<group>"; };
 		BE4D841F2B7F9BEF00B6504F /* PedirEdad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PedirEdad.swift; sourceTree = "<group>"; };
 		BE4D84212B7FA45A00B6504F /* TextoMultilinea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextoMultilinea.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				BE4D84262B7FAE6A00B6504F /* BasicoCadenas.swift */,
+				BE378E322B95753200EF170C /* ManipulacionStrings.swift */,
 			);
 			path = 09_cadenas;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */,
 				BE4D84242B7FA6C900B6504F /* TiposVariables.swift in Sources */,
 				BE4D84222B7FA45A00B6504F /* TextoMultilinea.swift in Sources */,
+				BE378E332B95753200EF170C /* ManipulacionStrings.swift in Sources */,
 				BE72D0652B7F0610005A01DF /* ImpuestoVentas.swift in Sources */,
 				BED3FAF02B22A0D7004A0478 /* LadronDelTesoro.swift in Sources */,
 				BE4D84202B7F9BEF00B6504F /* PedirEdad.swift in Sources */,
