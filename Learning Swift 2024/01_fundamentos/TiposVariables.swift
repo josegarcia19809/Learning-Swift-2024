@@ -21,24 +21,29 @@ func tiposVariables(){
     print(mensaje3)
     
     var str_ = "Hello, playground"
-    print("Hello world")
+    print(str_)
     var miVariable = 42
     miVariable = 50
     let miConstante = 42
+    print(miVariable, miConstante)
     
     let implicitInteger = 70
     let implicitDouble = 70.0
     let explicitDouble: Double = 70
     let explicitFloat: Float = 65
+    print(implicitInteger, implicitDouble, explicitDouble, explicitFloat)
     
     let etiqueta = "El ancho es "
     let ancho = 94
     let etiquetaAncho = etiqueta + String(ancho)
+    print(etiquetaAncho)
     
     let apples = 3
     let oranges = 5
     let appleSummary = "I have \(apples) apples."
     let fruitSummary = "I have \(apples + oranges) pieces of fruit"
+    print(appleSummary)
+    print(fruitSummary)
     
     let names = "José Luis, Rouss, Ami"
     let ageJL = 38.5
@@ -51,6 +56,7 @@ func tiposVariables(){
     let quotation = """
     I said "I have \(apples + oranges) pieces of fruit."
     """
+    print(quotation)
     
 }
 
