@@ -29,6 +29,7 @@ func basicosCadenas(){
     // String vacío
     let cadenaVacia = ""
     let cadenaVacia2 = String()
+    print(cadenaVacia, cadenaVacia2)
     print("-----------------------------------------------------------")
     
     // Caracteres, Unicode y Emojis
@@ -46,7 +47,7 @@ func basicosCadenas(){
     print("-----------------------------------------------------------")
     
     // Concatenacion e interpolación
-    var str1 = "Hello, playground" + " to the Swift's course"
+    let str1 = "Hello, playground" + " to the Swift's course"
     strSaludo += ". \nWelcome"
     print("\(str1) \(strSaludo)")
     // Interpolacion
