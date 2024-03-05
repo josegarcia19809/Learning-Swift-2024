@@ -23,6 +23,7 @@
 		BE72D0632B7F03B8005A01DF /* PrediccionVentas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0622B7F03B8005A01DF /* PrediccionVentas.swift */; };
 		BE72D0652B7F0610005A01DF /* ImpuestoVentas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0642B7F0610005A01DF /* ImpuestoVentas.swift */; };
 		BE72D0672B7F095E005A01DF /* FacturaRestaurante.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0662B7F095E005A01DF /* FacturaRestaurante.swift */; };
+		BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487242B96C46A002C5A2B /* division_entre_cero_v2.swift */; };
 		BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964B2B391C00007E6192 /* Multiplicacion.swift */; };
 		BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964D2B391DD2007E6192 /* Sumando.swift */; };
 		BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */; };
@@ -68,6 +69,7 @@
 		BE72D0622B7F03B8005A01DF /* PrediccionVentas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrediccionVentas.swift; sourceTree = "<group>"; };
 		BE72D0642B7F0610005A01DF /* ImpuestoVentas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImpuestoVentas.swift; sourceTree = "<group>"; };
 		BE72D0662B7F095E005A01DF /* FacturaRestaurante.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacturaRestaurante.swift; sourceTree = "<group>"; };
+		BEB487242B96C46A002C5A2B /* division_entre_cero_v2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_entre_cero_v2.swift; sourceTree = "<group>"; };
 		BEC1964B2B391C00007E6192 /* Multiplicacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiplicacion.swift; sourceTree = "<group>"; };
 		BEC1964D2B391DD2007E6192 /* Sumando.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sumando.swift; sourceTree = "<group>"; };
 		BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcesandoClosures.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				BE378E2C2B956EF600EF170C /* bonificacion.swift */,
 				BE378E2E2B9570E300EF170C /* condicion_imprimir.swift */,
 				BE378E302B9571AF00EF170C /* mensaje_felicitacion.swift */,
+				BEB487242B96C46A002C5A2B /* division_entre_cero_v2.swift */,
 			);
 			path = 02_condiciones;
 			sourceTree = "<group>";
@@ -145,11 +148,11 @@
 		BED25A3A2B1E8AF200133A14 /* Learning Swift 2024 */ = {
 			isa = PBXGroup;
 			children = (
+				BED25A422B1E8C8900133A14 /* 01_fundamentos */,
 				BE2776F52B91650100C704C8 /* 02_condiciones */,
 				BE4D84252B7FAE5300B6504F /* 09_cadenas */,
-				BEC1964A2B391BE4007E6192 /* 11_closures */,
 				BED3FAEC2B229A04004A0478 /* 10_manejo_de_errores */,
-				BED25A422B1E8C8900133A14 /* 01_fundamentos */,
+				BEC1964A2B391BE4007E6192 /* 11_closures */,
 				BED25A3B2B1E8AF200133A14 /* main.swift */,
 			);
 			path = "Learning Swift 2024";
@@ -269,6 +272,7 @@
 				AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */,
 				BE4D84242B7FA6C900B6504F /* TiposVariables.swift in Sources */,
 				BE4D84222B7FA45A00B6504F /* TextoMultilinea.swift in Sources */,
+				BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */,
 				BE378E332B95753200EF170C /* ManipulacionStrings.swift in Sources */,
 				BE72D0652B7F0610005A01DF /* ImpuestoVentas.swift in Sources */,
 				BED3FAF02B22A0D7004A0478 /* LadronDelTesoro.swift in Sources */,
