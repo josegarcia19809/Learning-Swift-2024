@@ -27,6 +27,7 @@
 		BEB487272B96C624002C5A2B /* angulo_recto.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487262B96C624002C5A2B /* angulo_recto.swift */; };
 		BEB487292B96C6FE002C5A2B /* temperatura.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487282B96C6FE002C5A2B /* temperatura.swift */; };
 		BEB4872B2B96C7DC002C5A2B /* velocidad.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB4872A2B96C7DC002C5A2B /* velocidad.swift */; };
+		BEB4872E2B96CAC1002C5A2B /* busqueda_secuencial_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB4872D2B96CAC1002C5A2B /* busqueda_secuencial_1.swift */; };
 		BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964B2B391C00007E6192 /* Multiplicacion.swift */; };
 		BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964D2B391DD2007E6192 /* Sumando.swift */; };
 		BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */; };
@@ -76,6 +77,7 @@
 		BEB487262B96C624002C5A2B /* angulo_recto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = angulo_recto.swift; sourceTree = "<group>"; };
 		BEB487282B96C6FE002C5A2B /* temperatura.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = temperatura.swift; sourceTree = "<group>"; };
 		BEB4872A2B96C7DC002C5A2B /* velocidad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = velocidad.swift; sourceTree = "<group>"; };
+		BEB4872D2B96CAC1002C5A2B /* busqueda_secuencial_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = busqueda_secuencial_1.swift; sourceTree = "<group>"; };
 		BEC1964B2B391C00007E6192 /* Multiplicacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiplicacion.swift; sourceTree = "<group>"; };
 		BEC1964D2B391DD2007E6192 /* Sumando.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sumando.swift; sourceTree = "<group>"; };
 		BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcesandoClosures.swift; sourceTree = "<group>"; };
@@ -128,6 +130,14 @@
 			path = 09_cadenas;
 			sourceTree = "<group>";
 		};
+		BEB4872C2B96CA97002C5A2B /* 12_busqueda_secuencial */ = {
+			isa = PBXGroup;
+			children = (
+				BEB4872D2B96CAC1002C5A2B /* busqueda_secuencial_1.swift */,
+			);
+			path = 12_busqueda_secuencial;
+			sourceTree = "<group>";
+		};
 		BEC1964A2B391BE4007E6192 /* 11_closures */ = {
 			isa = PBXGroup;
 			children = (
@@ -157,6 +167,7 @@
 		BED25A3A2B1E8AF200133A14 /* Learning Swift 2024 */ = {
 			isa = PBXGroup;
 			children = (
+				BEB4872C2B96CA97002C5A2B /* 12_busqueda_secuencial */,
 				BED25A422B1E8C8900133A14 /* 01_fundamentos */,
 				BE2776F52B91650100C704C8 /* 02_condiciones */,
 				BE4D84252B7FAE5300B6504F /* 09_cadenas */,
@@ -291,6 +302,7 @@
 				BE4D84202B7F9BEF00B6504F /* PedirEdad.swift in Sources */,
 				BE72D0612B7F0205005A01DF /* Suma2Numeros.swift in Sources */,
 				BE2776F92B9167DE00C704C8 /* taquilla_cine.swift in Sources */,
+				BEB4872E2B96CAC1002C5A2B /* busqueda_secuencial_1.swift in Sources */,
 				BE4D84272B7FAE6A00B6504F /* BasicoCadenas.swift in Sources */,
 				BED3FAFA2B22A22F004A0478 /* RacionamientoDelRon.swift in Sources */,
 			);
