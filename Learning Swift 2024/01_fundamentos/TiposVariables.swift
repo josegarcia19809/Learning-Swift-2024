@@ -20,7 +20,7 @@ func tiposVariables(){
     mensaje3.append(caracter)
     print(mensaje3)
     
-    var str_ = "Hello, playground"
+    let str_ = "Hello, playground"
     print(str_)
     var miVariable = 42
     miVariable = 50
