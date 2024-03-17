@@ -8,4 +8,4 @@
 import Foundation
 
 print("Programando en Swift...")
-busquedaSecuencial1()
+contarCaracteres()
