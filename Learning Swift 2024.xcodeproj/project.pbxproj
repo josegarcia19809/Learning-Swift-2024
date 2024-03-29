@@ -31,6 +31,7 @@
 		BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964B2B391C00007E6192 /* Multiplicacion.swift */; };
 		BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964D2B391DD2007E6192 /* Sumando.swift */; };
 		BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */; };
+		BEC32D182BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC32D172BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift */; };
 		BEC853D32BA5DBDE00CEDAD1 /* ContarCaracteres.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */; };
 		BED25A3C2B1E8AF200133A14 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED25A3B2B1E8AF200133A14 /* main.swift */; };
 		BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED25A432B1E8CA700133A14 /* Condiciones.swift */; };
@@ -82,6 +83,7 @@
 		BEC1964B2B391C00007E6192 /* Multiplicacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiplicacion.swift; sourceTree = "<group>"; };
 		BEC1964D2B391DD2007E6192 /* Sumando.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sumando.swift; sourceTree = "<group>"; };
 		BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcesandoClosures.swift; sourceTree = "<group>"; };
+		BEC32D172BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CadenasIndicesSubcadenas.swift; sourceTree = "<group>"; };
 		BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContarCaracteres.swift; sourceTree = "<group>"; };
 		BED25A382B1E8AF200133A14 /* Learning Swift 2024 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Learning Swift 2024"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BED25A3B2B1E8AF200133A14 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				BE4D84262B7FAE6A00B6504F /* BasicoCadenas.swift */,
 				BE378E322B95753200EF170C /* ManipulacionStrings.swift */,
 				BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */,
+				BEC32D172BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift */,
 			);
 			path = 09_cadenas;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 				BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */,
 				BE72D0632B7F03B8005A01DF /* PrediccionVentas.swift in Sources */,
 				BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */,
+				BEC32D182BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift in Sources */,
 				BE378E2D2B956EF600EF170C /* bonificacion.swift in Sources */,
 				BED3FAF42B22A162004A0478 /* IncorporacionDePiratas.swift in Sources */,
 				BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */,
