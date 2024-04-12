@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE60E9557A19EC8AEA91958A /* Opcionales.swift */; };
+		BE20E3732BC9673B00449B90 /* do_while_producto_pares.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE20E3722BC9673B00449B90 /* do_while_producto_pares.swift */; };
 		BE2776F72B91652400C704C8 /* division_entre_cero.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F62B91652400C704C8 /* division_entre_cero.swift */; };
 		BE2776F92B9167DE00C704C8 /* taquilla_cine.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */; };
 		BE378E2D2B956EF600EF170C /* bonificacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE378E2C2B956EF600EF170C /* bonificacion.swift */; };
@@ -60,6 +61,7 @@
 
 /* Begin PBXFileReference section */
 		AE60E9557A19EC8AEA91958A /* Opcionales.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Opcionales.swift; sourceTree = "<group>"; };
+		BE20E3722BC9673B00449B90 /* do_while_producto_pares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = do_while_producto_pares.swift; sourceTree = "<group>"; };
 		BE2776F62B91652400C704C8 /* division_entre_cero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_entre_cero.swift; sourceTree = "<group>"; };
 		BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taquilla_cine.swift; sourceTree = "<group>"; };
 		BE378E2C2B956EF600EF170C /* bonificacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bonificacion.swift; sourceTree = "<group>"; };
@@ -110,6 +112,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BE20E3712BC9671400449B90 /* 03_ciclos */ = {
+			isa = PBXGroup;
+			children = (
+				BE20E3722BC9673B00449B90 /* do_while_producto_pares.swift */,
+			);
+			path = 03_ciclos;
+			sourceTree = "<group>";
+		};
 		BE2776F52B91650100C704C8 /* 02_condiciones */ = {
 			isa = PBXGroup;
 			children = (
@@ -173,6 +183,7 @@
 		BED25A3A2B1E8AF200133A14 /* Learning Swift 2024 */ = {
 			isa = PBXGroup;
 			children = (
+				BE20E3712BC9671400449B90 /* 03_ciclos */,
 				BEB4872C2B96CA97002C5A2B /* 12_busqueda_secuencial */,
 				BED25A422B1E8C8900133A14 /* 01_fundamentos */,
 				BE2776F52B91650100C704C8 /* 02_condiciones */,
@@ -302,6 +313,7 @@
 				BEB4872B2B96C7DC002C5A2B /* velocidad.swift in Sources */,
 				AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */,
 				BE4D84242B7FA6C900B6504F /* TiposVariables.swift in Sources */,
+				BE20E3732BC9673B00449B90 /* do_while_producto_pares.swift in Sources */,
 				BE4D84222B7FA45A00B6504F /* TextoMultilinea.swift in Sources */,
 				BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */,
 				BE378E332B95753200EF170C /* ManipulacionStrings.swift in Sources */,
