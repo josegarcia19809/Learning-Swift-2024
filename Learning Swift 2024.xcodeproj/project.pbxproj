@@ -34,6 +34,7 @@
 		BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */; };
 		BEC32D182BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC32D172BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift */; };
 		BEC5B0E12BD3E3EC005A7837 /* OcupacionHoteleraFor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC5B0E02BD3E3EC005A7837 /* OcupacionHoteleraFor.swift */; };
+		BEC5B0E32BD3E954005A7837 /* TabuladorSalariosFor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC5B0E22BD3E954005A7837 /* TabuladorSalariosFor.swift */; };
 		BEC853D32BA5DBDE00CEDAD1 /* ContarCaracteres.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */; };
 		BED25A3C2B1E8AF200133A14 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED25A3B2B1E8AF200133A14 /* main.swift */; };
 		BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED25A432B1E8CA700133A14 /* Condiciones.swift */; };
@@ -88,6 +89,7 @@
 		BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcesandoClosures.swift; sourceTree = "<group>"; };
 		BEC32D172BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CadenasIndicesSubcadenas.swift; sourceTree = "<group>"; };
 		BEC5B0E02BD3E3EC005A7837 /* OcupacionHoteleraFor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OcupacionHoteleraFor.swift; sourceTree = "<group>"; };
+		BEC5B0E22BD3E954005A7837 /* TabuladorSalariosFor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabuladorSalariosFor.swift; sourceTree = "<group>"; };
 		BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContarCaracteres.swift; sourceTree = "<group>"; };
 		BED25A382B1E8AF200133A14 /* Learning Swift 2024 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Learning Swift 2024"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BED25A3B2B1E8AF200133A14 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 			children = (
 				BE20E3722BC9673B00449B90 /* do_while_producto_pares.swift */,
 				BEC5B0E02BD3E3EC005A7837 /* OcupacionHoteleraFor.swift */,
+				BEC5B0E22BD3E954005A7837 /* TabuladorSalariosFor.swift */,
 			);
 			path = 03_ciclos;
 			sourceTree = "<group>";
@@ -322,6 +325,7 @@
 				BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */,
 				BE378E332B95753200EF170C /* ManipulacionStrings.swift in Sources */,
 				BE72D0652B7F0610005A01DF /* ImpuestoVentas.swift in Sources */,
+				BEC5B0E32BD3E954005A7837 /* TabuladorSalariosFor.swift in Sources */,
 				BED3FAF02B22A0D7004A0478 /* LadronDelTesoro.swift in Sources */,
 				BE4D84202B7F9BEF00B6504F /* PedirEdad.swift in Sources */,
 				BE72D0612B7F0205005A01DF /* Suma2Numeros.swift in Sources */,
