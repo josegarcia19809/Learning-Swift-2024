@@ -33,6 +33,7 @@
 		BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964D2B391DD2007E6192 /* Sumando.swift */; };
 		BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */; };
 		BEC32D182BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC32D172BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift */; };
+		BEC5B0E12BD3E3EC005A7837 /* OcupacionHoteleraFor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC5B0E02BD3E3EC005A7837 /* OcupacionHoteleraFor.swift */; };
 		BEC853D32BA5DBDE00CEDAD1 /* ContarCaracteres.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */; };
 		BED25A3C2B1E8AF200133A14 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED25A3B2B1E8AF200133A14 /* main.swift */; };
 		BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED25A432B1E8CA700133A14 /* Condiciones.swift */; };
@@ -86,6 +87,7 @@
 		BEC1964D2B391DD2007E6192 /* Sumando.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sumando.swift; sourceTree = "<group>"; };
 		BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcesandoClosures.swift; sourceTree = "<group>"; };
 		BEC32D172BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CadenasIndicesSubcadenas.swift; sourceTree = "<group>"; };
+		BEC5B0E02BD3E3EC005A7837 /* OcupacionHoteleraFor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OcupacionHoteleraFor.swift; sourceTree = "<group>"; };
 		BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContarCaracteres.swift; sourceTree = "<group>"; };
 		BED25A382B1E8AF200133A14 /* Learning Swift 2024 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Learning Swift 2024"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BED25A3B2B1E8AF200133A14 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 			isa = PBXGroup;
 			children = (
 				BE20E3722BC9673B00449B90 /* do_while_producto_pares.swift */,
+				BEC5B0E02BD3E3EC005A7837 /* OcupacionHoteleraFor.swift */,
 			);
 			path = 03_ciclos;
 			sourceTree = "<group>";
@@ -304,6 +307,7 @@
 				BED3FAF42B22A162004A0478 /* IncorporacionDePiratas.swift in Sources */,
 				BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */,
 				BED3FAF82B22A205004A0478 /* LaClaveDeLosCofres.swift in Sources */,
+				BEC5B0E12BD3E3EC005A7837 /* OcupacionHoteleraFor.swift in Sources */,
 				BED3FAEB2B22927F004A0478 /* ManejoErrores.swift in Sources */,
 				BEB487272B96C624002C5A2B /* angulo_recto.swift in Sources */,
 				BED3FAF22B22A11A004A0478 /* LaExpulsion.swift in Sources */,

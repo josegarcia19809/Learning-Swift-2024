@@ -8,4 +8,4 @@
 import Foundation
 
 print("Programando en Swift...")
-do_while_producto_pares()
+ocupacionHotelera()
