@@ -43,7 +43,7 @@ func cadenasIndices(){
 }
 
 func subCadenas(){
-    var mensaje: String = "Hola Mundo";
+    let mensaje: String = "Hola Mundo";
     let blankIndex = mensaje.firstIndex(of: " ") ?? mensaje.endIndex
     print(blankIndex.utf16Offset(in: mensaje))
     // Esto imprimirá el desplazamiento del índice del primer espacio en blanco dentro de la
@@ -52,8 +52,10 @@ func subCadenas(){
     
     let firstPart = mensaje[..<blankIndex] // Se crea un substring que abarca desde el inicio de
     // la cadena hasta el índice del primer espacio en blanco (no inclusivo), es decir, "Hola".
+    
     let secondPart = mensaje[blankIndex...] // Se crea un substring que abarca desde el índice
     // del primer espacio en blanco hasta el final de la cadena (inclusivo), es decir, " Mundo".
+    print(secondPart)
     
     let newString = String(firstPart) // Se crea una nueva cadena a partir del
     // substring firstPart, que es "Hola".
