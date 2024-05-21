@@ -49,6 +49,7 @@
 		BED3FAFA2B22A22F004A0478 /* RacionamientoDelRon.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAF92B22A22F004A0478 /* RacionamientoDelRon.swift */; };
 		BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */; };
 		BEE81D442BFD3231002A34AA /* aumento_precio.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D432BFD3231002A34AA /* aumento_precio.swift */; };
+		BEE81D462BFD3979002A34AA /* area_rectangulo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D452BFD3979002A34AA /* area_rectangulo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -107,6 +108,7 @@
 		BED3FAF92B22A22F004A0478 /* RacionamientoDelRon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RacionamientoDelRon.swift; sourceTree = "<group>"; };
 		BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteligenciaPirata.swift; sourceTree = "<group>"; };
 		BEE81D432BFD3231002A34AA /* aumento_precio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aumento_precio.swift; sourceTree = "<group>"; };
+		BEE81D452BFD3979002A34AA /* area_rectangulo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area_rectangulo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -245,6 +247,7 @@
 			isa = PBXGroup;
 			children = (
 				BEE81D432BFD3231002A34AA /* aumento_precio.swift */,
+				BEE81D452BFD3979002A34AA /* area_rectangulo.swift */,
 			);
 			path = 04_funciones;
 			sourceTree = "<group>";
@@ -318,6 +321,7 @@
 				BED25A3C2B1E8AF200133A14 /* main.swift in Sources */,
 				BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */,
 				BE72D0632B7F03B8005A01DF /* PrediccionVentas.swift in Sources */,
+				BEE81D462BFD3979002A34AA /* area_rectangulo.swift in Sources */,
 				BEE81D442BFD3231002A34AA /* aumento_precio.swift in Sources */,
 				BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */,
 				BEC32D182BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift in Sources */,
