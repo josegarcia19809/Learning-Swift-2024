@@ -48,6 +48,7 @@
 		BED3FAF82B22A205004A0478 /* LaClaveDeLosCofres.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAF72B22A205004A0478 /* LaClaveDeLosCofres.swift */; };
 		BED3FAFA2B22A22F004A0478 /* RacionamientoDelRon.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAF92B22A22F004A0478 /* RacionamientoDelRon.swift */; };
 		BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */; };
+		BEE81D442BFD3231002A34AA /* aumento_precio.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D432BFD3231002A34AA /* aumento_precio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -105,6 +106,7 @@
 		BED3FAF72B22A205004A0478 /* LaClaveDeLosCofres.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaClaveDeLosCofres.swift; sourceTree = "<group>"; };
 		BED3FAF92B22A22F004A0478 /* RacionamientoDelRon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RacionamientoDelRon.swift; sourceTree = "<group>"; };
 		BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteligenciaPirata.swift; sourceTree = "<group>"; };
+		BEE81D432BFD3231002A34AA /* aumento_precio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aumento_precio.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +194,7 @@
 		BED25A3A2B1E8AF200133A14 /* Learning Swift 2024 */ = {
 			isa = PBXGroup;
 			children = (
+				BEE81D422BFD31D6002A34AA /* 04_funciones */,
 				BE20E3712BC9671400449B90 /* 03_ciclos */,
 				BEB4872C2B96CA97002C5A2B /* 12_busqueda_secuencial */,
 				BED25A422B1E8C8900133A14 /* 01_fundamentos */,
@@ -236,6 +239,14 @@
 				BED3FAED2B229C4B004A0478 /* AssertEdad.swift */,
 			);
 			path = 10_manejo_de_errores;
+			sourceTree = "<group>";
+		};
+		BEE81D422BFD31D6002A34AA /* 04_funciones */ = {
+			isa = PBXGroup;
+			children = (
+				BEE81D432BFD3231002A34AA /* aumento_precio.swift */,
+			);
+			path = 04_funciones;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -307,6 +318,7 @@
 				BED25A3C2B1E8AF200133A14 /* main.swift in Sources */,
 				BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */,
 				BE72D0632B7F03B8005A01DF /* PrediccionVentas.swift in Sources */,
+				BEE81D442BFD3231002A34AA /* aumento_precio.swift in Sources */,
 				BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */,
 				BEC32D182BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift in Sources */,
 				BE378E2D2B956EF600EF170C /* bonificacion.swift in Sources */,
