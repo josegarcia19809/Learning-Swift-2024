@@ -50,6 +50,7 @@
 		BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */; };
 		BEE81D442BFD3231002A34AA /* aumento_precio.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D432BFD3231002A34AA /* aumento_precio.swift */; };
 		BEE81D462BFD3979002A34AA /* area_rectangulo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D452BFD3979002A34AA /* area_rectangulo.swift */; };
+		BEE81D482BFD3F59002A34AA /* division_ganadora.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D472BFD3F59002A34AA /* division_ganadora.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -109,6 +110,7 @@
 		BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteligenciaPirata.swift; sourceTree = "<group>"; };
 		BEE81D432BFD3231002A34AA /* aumento_precio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aumento_precio.swift; sourceTree = "<group>"; };
 		BEE81D452BFD3979002A34AA /* area_rectangulo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area_rectangulo.swift; sourceTree = "<group>"; };
+		BEE81D472BFD3F59002A34AA /* division_ganadora.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_ganadora.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -248,6 +250,7 @@
 			children = (
 				BEE81D432BFD3231002A34AA /* aumento_precio.swift */,
 				BEE81D452BFD3979002A34AA /* area_rectangulo.swift */,
+				BEE81D472BFD3F59002A34AA /* division_ganadora.swift */,
 			);
 			path = 04_funciones;
 			sourceTree = "<group>";
@@ -333,6 +336,7 @@
 				BED3FAEB2B22927F004A0478 /* ManejoErrores.swift in Sources */,
 				BEB487272B96C624002C5A2B /* angulo_recto.swift in Sources */,
 				BED3FAF22B22A11A004A0478 /* LaExpulsion.swift in Sources */,
+				BEE81D482BFD3F59002A34AA /* division_ganadora.swift in Sources */,
 				BED3FAEE2B229C4B004A0478 /* AssertEdad.swift in Sources */,
 				BE2776F72B91652400C704C8 /* division_entre_cero.swift in Sources */,
 				BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */,
