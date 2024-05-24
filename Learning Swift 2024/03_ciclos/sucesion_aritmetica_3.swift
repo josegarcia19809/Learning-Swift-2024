@@ -13,5 +13,12 @@
 import Foundation
 
 func sucesionAritmetica3() {
-    
+    var totalDeuda: Double = 0
+    var pago: Double = 5000
+    for semana in 1 ... 32 {
+        totalDeuda += pago
+        print("Pago de la semana \(semana): \(pago)... \(totalDeuda)")
+        pago += 3000
+    }
+    print("Total de la deuda: $\(String(format: "%.2f", totalDeuda))")
 }
