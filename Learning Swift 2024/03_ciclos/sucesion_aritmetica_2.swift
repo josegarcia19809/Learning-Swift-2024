@@ -4,7 +4,11 @@
 //
 //  Created by Jose Garcia on 23/05/24.
 //
-
+/**
+ 2. Las pérdidas de 5 años de una casa de comercio están en progresión aritmética.
+ El último año perdió $3,000 pesos y la pérdida de cada año fue de $300 menos que
+ en el anterior. ¿Cuánto perdió el primer año?
+ */
 import Foundation
 
 func sucesionAritmetica2() {

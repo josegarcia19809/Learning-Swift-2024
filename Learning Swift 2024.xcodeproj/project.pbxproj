@@ -27,6 +27,7 @@
 		BE72D0672B7F095E005A01DF /* FacturaRestaurante.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0662B7F095E005A01DF /* FacturaRestaurante.swift */; };
 		BE7D065C2C0023110014F2EE /* sucesion_aritmetica_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7D065B2C0023110014F2EE /* sucesion_aritmetica_1.swift */; };
 		BE7D065E2C0026B70014F2EE /* sucesion_aritmetica_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7D065D2C0026B70014F2EE /* sucesion_aritmetica_2.swift */; };
+		BE7D06602C002E3C0014F2EE /* sucesion_aritmetica_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7D065F2C002E3C0014F2EE /* sucesion_aritmetica_3.swift */; };
 		BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487242B96C46A002C5A2B /* division_entre_cero_v2.swift */; };
 		BEB487272B96C624002C5A2B /* angulo_recto.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487262B96C624002C5A2B /* angulo_recto.swift */; };
 		BEB487292B96C6FE002C5A2B /* temperatura.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487282B96C6FE002C5A2B /* temperatura.swift */; };
@@ -88,6 +89,7 @@
 		BE72D0662B7F095E005A01DF /* FacturaRestaurante.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacturaRestaurante.swift; sourceTree = "<group>"; };
 		BE7D065B2C0023110014F2EE /* sucesion_aritmetica_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sucesion_aritmetica_1.swift; sourceTree = "<group>"; };
 		BE7D065D2C0026B70014F2EE /* sucesion_aritmetica_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sucesion_aritmetica_2.swift; sourceTree = "<group>"; };
+		BE7D065F2C002E3C0014F2EE /* sucesion_aritmetica_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sucesion_aritmetica_3.swift; sourceTree = "<group>"; };
 		BEB487242B96C46A002C5A2B /* division_entre_cero_v2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_entre_cero_v2.swift; sourceTree = "<group>"; };
 		BEB487262B96C624002C5A2B /* angulo_recto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = angulo_recto.swift; sourceTree = "<group>"; };
 		BEB487282B96C6FE002C5A2B /* temperatura.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = temperatura.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 				BE5051CD2BD6A9E60051F56A /* PrecipitacionMedia.swift */,
 				BE7D065B2C0023110014F2EE /* sucesion_aritmetica_1.swift */,
 				BE7D065D2C0026B70014F2EE /* sucesion_aritmetica_2.swift */,
+				BE7D065F2C002E3C0014F2EE /* sucesion_aritmetica_3.swift */,
 			);
 			path = 03_ciclos;
 			sourceTree = "<group>";
@@ -356,6 +359,7 @@
 				BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */,
 				BE378E332B95753200EF170C /* ManipulacionStrings.swift in Sources */,
 				BE72D0652B7F0610005A01DF /* ImpuestoVentas.swift in Sources */,
+				BE7D06602C002E3C0014F2EE /* sucesion_aritmetica_3.swift in Sources */,
 				BEC5B0E32BD3E954005A7837 /* TabuladorSalariosFor.swift in Sources */,
 				BED3FAF02B22A0D7004A0478 /* LadronDelTesoro.swift in Sources */,
 				BE4D84202B7F9BEF00B6504F /* PedirEdad.swift in Sources */,

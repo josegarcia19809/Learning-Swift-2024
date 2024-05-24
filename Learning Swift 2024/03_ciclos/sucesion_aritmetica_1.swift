@@ -6,7 +6,10 @@
 //
 
 import Foundation
-
+/**
+ 1. Se compran 50 artículos. Por el primero se pagó 800 pesos, y por cada uno de los
+ demás 300 pesos más que por el anterior. Hallar el importe de la compra.
+ */
 func sucesionAritmetica1() {
     let importeInicial: Double = 800.00
     var totalAPagar: Double = importeInicial
