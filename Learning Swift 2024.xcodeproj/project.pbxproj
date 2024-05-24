@@ -25,6 +25,7 @@
 		BE72D0632B7F03B8005A01DF /* PrediccionVentas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0622B7F03B8005A01DF /* PrediccionVentas.swift */; };
 		BE72D0652B7F0610005A01DF /* ImpuestoVentas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0642B7F0610005A01DF /* ImpuestoVentas.swift */; };
 		BE72D0672B7F095E005A01DF /* FacturaRestaurante.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0662B7F095E005A01DF /* FacturaRestaurante.swift */; };
+		BE7D065C2C0023110014F2EE /* sucesion_aritmetica_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7D065B2C0023110014F2EE /* sucesion_aritmetica_1.swift */; };
 		BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487242B96C46A002C5A2B /* division_entre_cero_v2.swift */; };
 		BEB487272B96C624002C5A2B /* angulo_recto.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487262B96C624002C5A2B /* angulo_recto.swift */; };
 		BEB487292B96C6FE002C5A2B /* temperatura.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487282B96C6FE002C5A2B /* temperatura.swift */; };
@@ -84,6 +85,7 @@
 		BE72D0622B7F03B8005A01DF /* PrediccionVentas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrediccionVentas.swift; sourceTree = "<group>"; };
 		BE72D0642B7F0610005A01DF /* ImpuestoVentas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImpuestoVentas.swift; sourceTree = "<group>"; };
 		BE72D0662B7F095E005A01DF /* FacturaRestaurante.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacturaRestaurante.swift; sourceTree = "<group>"; };
+		BE7D065B2C0023110014F2EE /* sucesion_aritmetica_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sucesion_aritmetica_1.swift; sourceTree = "<group>"; };
 		BEB487242B96C46A002C5A2B /* division_entre_cero_v2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_entre_cero_v2.swift; sourceTree = "<group>"; };
 		BEB487262B96C624002C5A2B /* angulo_recto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = angulo_recto.swift; sourceTree = "<group>"; };
 		BEB487282B96C6FE002C5A2B /* temperatura.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = temperatura.swift; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				BEC5B0E02BD3E3EC005A7837 /* OcupacionHoteleraFor.swift */,
 				BEC5B0E22BD3E954005A7837 /* TabuladorSalariosFor.swift */,
 				BE5051CD2BD6A9E60051F56A /* PrecipitacionMedia.swift */,
+				BE7D065B2C0023110014F2EE /* sucesion_aritmetica_1.swift */,
 			);
 			path = 03_ciclos;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				BEC5B0E12BD3E3EC005A7837 /* OcupacionHoteleraFor.swift in Sources */,
 				BED3FAEB2B22927F004A0478 /* ManejoErrores.swift in Sources */,
 				BEB487272B96C624002C5A2B /* angulo_recto.swift in Sources */,
+				BE7D065C2C0023110014F2EE /* sucesion_aritmetica_1.swift in Sources */,
 				BED3FAF22B22A11A004A0478 /* LaExpulsion.swift in Sources */,
 				BEE81D482BFD3F59002A34AA /* division_ganadora.swift in Sources */,
 				BED3FAEE2B229C4B004A0478 /* AssertEdad.swift in Sources */,
