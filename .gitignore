@@ -5,8 +5,8 @@
 ## User settings
 xcuserdata
 ./project.xcworkspace/
-./Learning Swift 2024.xcodeproj/*
-./Learning Swift 2024.xcodeproj/project.pbxproj
+"./Learning Swift 2024.xcodeproj/*"
+"./Learning Swift 2024.xcodeproj/project.pbxproj"
 ## Xcode 8 and earlier
 *.xcscmblueprint
 *.xccheckout
@@ -23,7 +23,5 @@ xcuserdata
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+
 # End of https://www.toptal.com/developers/gitignore/api/xcode
-
-
-Learning Swift 2024.xcodeproj/project.pbxproj
