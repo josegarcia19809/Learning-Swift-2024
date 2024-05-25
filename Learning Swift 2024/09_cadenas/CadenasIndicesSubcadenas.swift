@@ -43,17 +43,17 @@ func cadenasIndices(){
 }
 
 func subCadenas(){
-    let mensaje: String = "Hola Mundo";
-    let blankIndex = mensaje.firstIndex(of: " ") ?? mensaje.endIndex
-    print(blankIndex.utf16Offset(in: mensaje))
+    let mensajeSalida: String = "Hola Mundo";
+    let blankIndex = mensajeSalida.firstIndex(of: " ") ?? mensajeSalida.endIndex
+    print(blankIndex.utf16Offset(in: mensajeSalida))
     // Esto imprimirá el desplazamiento del índice del primer espacio en blanco dentro de la
     // cadena "Hola Mundo" en su representación UTF-16. Si cuentas los caracteres desde 0,
     // el espacio en blanco está en el índice 4, por lo que imprimirá 4.
     
-    let firstPart = mensaje[..<blankIndex] // Se crea un substring que abarca desde el inicio de
+    let firstPart = mensajeSalida[..<blankIndex] // Se crea un substring que abarca desde el inicio de
     // la cadena hasta el índice del primer espacio en blanco (no inclusivo), es decir, "Hola".
     
-    let secondPart = mensaje[blankIndex...] // Se crea un substring que abarca desde el índice
+    let secondPart = mensajeSalida[blankIndex...] // Se crea un substring que abarca desde el índice
     // del primer espacio en blanco hasta el final de la cadena (inclusivo), es decir, " Mundo".
     print(secondPart)
     

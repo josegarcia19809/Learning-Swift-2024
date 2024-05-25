@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE60E9557A19EC8AEA91958A /* Opcionales.swift */; };
+		BE1DA5B42C029D64003E0618 /* area_conduccion_mas_segura.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */; };
 		BE20E3732BC9673B00449B90 /* do_while_producto_pares.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE20E3722BC9673B00449B90 /* do_while_producto_pares.swift */; };
 		BE2776F72B91652400C704C8 /* division_entre_cero.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F62B91652400C704C8 /* division_entre_cero.swift */; };
 		BE2776F92B9167DE00C704C8 /* taquilla_cine.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */; };
@@ -71,6 +72,7 @@
 
 /* Begin PBXFileReference section */
 		AE60E9557A19EC8AEA91958A /* Opcionales.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Opcionales.swift; sourceTree = "<group>"; };
+		BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area_conduccion_mas_segura.swift; sourceTree = "<group>"; };
 		BE20E3722BC9673B00449B90 /* do_while_producto_pares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = do_while_producto_pares.swift; sourceTree = "<group>"; };
 		BE2776F62B91652400C704C8 /* division_entre_cero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_entre_cero.swift; sourceTree = "<group>"; };
 		BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taquilla_cine.swift; sourceTree = "<group>"; };
@@ -263,6 +265,7 @@
 				BEE81D432BFD3231002A34AA /* aumento_precio.swift */,
 				BEE81D452BFD3979002A34AA /* area_rectangulo.swift */,
 				BEE81D472BFD3F59002A34AA /* division_ganadora.swift */,
+				BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */,
 			);
 			path = 04_funciones;
 			sourceTree = "<group>";
@@ -345,6 +348,7 @@
 				BED3FAF42B22A162004A0478 /* IncorporacionDePiratas.swift in Sources */,
 				BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */,
 				BED3FAF82B22A205004A0478 /* LaClaveDeLosCofres.swift in Sources */,
+				BE1DA5B42C029D64003E0618 /* area_conduccion_mas_segura.swift in Sources */,
 				BEC5B0E12BD3E3EC005A7837 /* OcupacionHoteleraFor.swift in Sources */,
 				BED3FAEB2B22927F004A0478 /* ManejoErrores.swift in Sources */,
 				BEB487272B96C624002C5A2B /* angulo_recto.swift in Sources */,
