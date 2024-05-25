@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE60E9557A19EC8AEA91958A /* Opcionales.swift */; };
 		BE1DA5B42C029D64003E0618 /* area_conduccion_mas_segura.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */; };
+		BE1DA5B62C02A6B2003E0618 /* distancia_caida.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B52C02A6B2003E0618 /* distancia_caida.swift */; };
+		BE1DA5B82C02AC39003E0618 /* cadenas_indices_subcadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B72C02AC39003E0618 /* cadenas_indices_subcadenas.swift */; };
 		BE20E3732BC9673B00449B90 /* do_while_producto_pares.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE20E3722BC9673B00449B90 /* do_while_producto_pares.swift */; };
 		BE2776F72B91652400C704C8 /* division_entre_cero.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F62B91652400C704C8 /* division_entre_cero.swift */; };
 		BE2776F92B9167DE00C704C8 /* taquilla_cine.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */; };
@@ -38,7 +40,6 @@
 		BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964B2B391C00007E6192 /* Multiplicacion.swift */; };
 		BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964D2B391DD2007E6192 /* Sumando.swift */; };
 		BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */; };
-		BEC32D182BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC32D172BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift */; };
 		BEC5B0E12BD3E3EC005A7837 /* OcupacionHoteleraFor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC5B0E02BD3E3EC005A7837 /* OcupacionHoteleraFor.swift */; };
 		BEC5B0E32BD3E954005A7837 /* TabuladorSalariosFor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC5B0E22BD3E954005A7837 /* TabuladorSalariosFor.swift */; };
 		BEC853D32BA5DBDE00CEDAD1 /* ContarCaracteres.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */; };
@@ -73,6 +74,8 @@
 /* Begin PBXFileReference section */
 		AE60E9557A19EC8AEA91958A /* Opcionales.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Opcionales.swift; sourceTree = "<group>"; };
 		BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area_conduccion_mas_segura.swift; sourceTree = "<group>"; };
+		BE1DA5B52C02A6B2003E0618 /* distancia_caida.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = distancia_caida.swift; sourceTree = "<group>"; };
+		BE1DA5B72C02AC39003E0618 /* cadenas_indices_subcadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cadenas_indices_subcadenas.swift; sourceTree = "<group>"; };
 		BE20E3722BC9673B00449B90 /* do_while_producto_pares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = do_while_producto_pares.swift; sourceTree = "<group>"; };
 		BE2776F62B91652400C704C8 /* division_entre_cero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_entre_cero.swift; sourceTree = "<group>"; };
 		BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taquilla_cine.swift; sourceTree = "<group>"; };
@@ -102,7 +105,6 @@
 		BEC1964B2B391C00007E6192 /* Multiplicacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiplicacion.swift; sourceTree = "<group>"; };
 		BEC1964D2B391DD2007E6192 /* Sumando.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sumando.swift; sourceTree = "<group>"; };
 		BEC1964F2B39208F007E6192 /* ProcesandoClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProcesandoClosures.swift; sourceTree = "<group>"; };
-		BEC32D172BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CadenasIndicesSubcadenas.swift; sourceTree = "<group>"; };
 		BEC5B0E02BD3E3EC005A7837 /* OcupacionHoteleraFor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OcupacionHoteleraFor.swift; sourceTree = "<group>"; };
 		BEC5B0E22BD3E954005A7837 /* TabuladorSalariosFor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabuladorSalariosFor.swift; sourceTree = "<group>"; };
 		BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContarCaracteres.swift; sourceTree = "<group>"; };
@@ -170,7 +172,7 @@
 				BE4D84262B7FAE6A00B6504F /* BasicoCadenas.swift */,
 				BE378E322B95753200EF170C /* ManipulacionStrings.swift */,
 				BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */,
-				BEC32D172BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift */,
+				BE1DA5B72C02AC39003E0618 /* cadenas_indices_subcadenas.swift */,
 			);
 			path = 09_cadenas;
 			sourceTree = "<group>";
@@ -266,6 +268,7 @@
 				BEE81D452BFD3979002A34AA /* area_rectangulo.swift */,
 				BEE81D472BFD3F59002A34AA /* division_ganadora.swift */,
 				BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */,
+				BE1DA5B52C02A6B2003E0618 /* distancia_caida.swift */,
 			);
 			path = 04_funciones;
 			sourceTree = "<group>";
@@ -343,7 +346,6 @@
 				BEE81D462BFD3979002A34AA /* area_rectangulo.swift in Sources */,
 				BEE81D442BFD3231002A34AA /* aumento_precio.swift in Sources */,
 				BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */,
-				BEC32D182BB64C9C008D66A8 /* CadenasIndicesSubcadenas.swift in Sources */,
 				BE378E2D2B956EF600EF170C /* bonificacion.swift in Sources */,
 				BED3FAF42B22A162004A0478 /* IncorporacionDePiratas.swift in Sources */,
 				BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */,
@@ -365,6 +367,7 @@
 				BE4D84222B7FA45A00B6504F /* TextoMultilinea.swift in Sources */,
 				BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */,
 				BE378E332B95753200EF170C /* ManipulacionStrings.swift in Sources */,
+				BE1DA5B62C02A6B2003E0618 /* distancia_caida.swift in Sources */,
 				BE7D06622C0030DB0014F2EE /* sucesion_aritmetica_4.swift in Sources */,
 				BE72D0652B7F0610005A01DF /* ImpuestoVentas.swift in Sources */,
 				BE7D06602C002E3C0014F2EE /* sucesion_aritmetica_3.swift in Sources */,
@@ -373,6 +376,7 @@
 				BE4D84202B7F9BEF00B6504F /* PedirEdad.swift in Sources */,
 				BE72D0612B7F0205005A01DF /* Suma2Numeros.swift in Sources */,
 				BE2776F92B9167DE00C704C8 /* taquilla_cine.swift in Sources */,
+				BE1DA5B82C02AC39003E0618 /* cadenas_indices_subcadenas.swift in Sources */,
 				BEB4872E2B96CAC1002C5A2B /* busqueda_secuencial_1.swift in Sources */,
 				BE4D84272B7FAE6A00B6504F /* BasicoCadenas.swift in Sources */,
 				BED3FAFA2B22A22F004A0478 /* RacionamientoDelRon.swift in Sources */,
