@@ -11,6 +11,7 @@
 		BE1DA5B42C029D64003E0618 /* area_conduccion_mas_segura.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */; };
 		BE1DA5B62C02A6B2003E0618 /* distancia_caida.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B52C02A6B2003E0618 /* distancia_caida.swift */; };
 		BE1DA5B82C02AC39003E0618 /* cadenas_indices_subcadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B72C02AC39003E0618 /* cadenas_indices_subcadenas.swift */; };
+		BE1DA5BA2C02ADA5003E0618 /* calculadora_calorias.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B92C02ADA5003E0618 /* calculadora_calorias.swift */; };
 		BE20E3732BC9673B00449B90 /* do_while_producto_pares.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE20E3722BC9673B00449B90 /* do_while_producto_pares.swift */; };
 		BE2776F72B91652400C704C8 /* division_entre_cero.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F62B91652400C704C8 /* division_entre_cero.swift */; };
 		BE2776F92B9167DE00C704C8 /* taquilla_cine.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */; };
@@ -76,6 +77,7 @@
 		BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area_conduccion_mas_segura.swift; sourceTree = "<group>"; };
 		BE1DA5B52C02A6B2003E0618 /* distancia_caida.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = distancia_caida.swift; sourceTree = "<group>"; };
 		BE1DA5B72C02AC39003E0618 /* cadenas_indices_subcadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cadenas_indices_subcadenas.swift; sourceTree = "<group>"; };
+		BE1DA5B92C02ADA5003E0618 /* calculadora_calorias.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculadora_calorias.swift; sourceTree = "<group>"; };
 		BE20E3722BC9673B00449B90 /* do_while_producto_pares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = do_while_producto_pares.swift; sourceTree = "<group>"; };
 		BE2776F62B91652400C704C8 /* division_entre_cero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_entre_cero.swift; sourceTree = "<group>"; };
 		BE2776F82B9167DE00C704C8 /* taquilla_cine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taquilla_cine.swift; sourceTree = "<group>"; };
@@ -214,14 +216,14 @@
 		BED25A3A2B1E8AF200133A14 /* Learning Swift 2024 */ = {
 			isa = PBXGroup;
 			children = (
-				BEE81D422BFD31D6002A34AA /* 04_funciones */,
-				BE20E3712BC9671400449B90 /* 03_ciclos */,
-				BEB4872C2B96CA97002C5A2B /* 12_busqueda_secuencial */,
 				BED25A422B1E8C8900133A14 /* 01_fundamentos */,
 				BE2776F52B91650100C704C8 /* 02_condiciones */,
+				BE20E3712BC9671400449B90 /* 03_ciclos */,
+				BEE81D422BFD31D6002A34AA /* 04_funciones */,
 				BE4D84252B7FAE5300B6504F /* 09_cadenas */,
 				BED3FAEC2B229A04004A0478 /* 10_manejo_de_errores */,
 				BEC1964A2B391BE4007E6192 /* 11_closures */,
+				BEB4872C2B96CA97002C5A2B /* 12_busqueda_secuencial */,
 				BED25A3B2B1E8AF200133A14 /* main.swift */,
 			);
 			path = "Learning Swift 2024";
@@ -269,6 +271,7 @@
 				BEE81D472BFD3F59002A34AA /* division_ganadora.swift */,
 				BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */,
 				BE1DA5B52C02A6B2003E0618 /* distancia_caida.swift */,
+				BE1DA5B92C02ADA5003E0618 /* calculadora_calorias.swift */,
 			);
 			path = 04_funciones;
 			sourceTree = "<group>";
@@ -347,6 +350,7 @@
 				BEE81D442BFD3231002A34AA /* aumento_precio.swift in Sources */,
 				BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */,
 				BE378E2D2B956EF600EF170C /* bonificacion.swift in Sources */,
+				BE1DA5BA2C02ADA5003E0618 /* calculadora_calorias.swift in Sources */,
 				BED3FAF42B22A162004A0478 /* IncorporacionDePiratas.swift in Sources */,
 				BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */,
 				BED3FAF82B22A205004A0478 /* LaClaveDeLosCofres.swift in Sources */,
