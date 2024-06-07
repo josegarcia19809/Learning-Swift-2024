@@ -58,6 +58,7 @@
 		BEE81D442BFD3231002A34AA /* aumento_precio.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D432BFD3231002A34AA /* aumento_precio.swift */; };
 		BEE81D462BFD3979002A34AA /* area_rectangulo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D452BFD3979002A34AA /* area_rectangulo.swift */; };
 		BEE81D482BFD3F59002A34AA /* division_ganadora.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D472BFD3F59002A34AA /* division_ganadora.swift */; };
+		BEFB38D92C13410D00CAD5D0 /* comparacion_cadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFB38D82C13410D00CAD5D0 /* comparacion_cadenas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -125,6 +126,7 @@
 		BEE81D432BFD3231002A34AA /* aumento_precio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aumento_precio.swift; sourceTree = "<group>"; };
 		BEE81D452BFD3979002A34AA /* area_rectangulo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area_rectangulo.swift; sourceTree = "<group>"; };
 		BEE81D472BFD3F59002A34AA /* division_ganadora.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_ganadora.swift; sourceTree = "<group>"; };
+		BEFB38D82C13410D00CAD5D0 /* comparacion_cadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = comparacion_cadenas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,6 +177,7 @@
 				BE378E322B95753200EF170C /* ManipulacionStrings.swift */,
 				BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */,
 				BE1DA5B72C02AC39003E0618 /* cadenas_indices_subcadenas.swift */,
+				BEFB38D82C13410D00CAD5D0 /* comparacion_cadenas.swift */,
 			);
 			path = 09_cadenas;
 			sourceTree = "<group>";
@@ -364,6 +367,7 @@
 				BED3FAEE2B229C4B004A0478 /* AssertEdad.swift in Sources */,
 				BE2776F72B91652400C704C8 /* division_entre_cero.swift in Sources */,
 				BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */,
+				BEFB38D92C13410D00CAD5D0 /* comparacion_cadenas.swift in Sources */,
 				BEB4872B2B96C7DC002C5A2B /* velocidad.swift in Sources */,
 				AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */,
 				BE4D84242B7FA6C900B6504F /* TiposVariables.swift in Sources */,
