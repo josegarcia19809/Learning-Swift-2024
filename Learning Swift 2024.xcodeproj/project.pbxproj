@@ -60,6 +60,7 @@
 		BEE81D482BFD3F59002A34AA /* division_ganadora.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D472BFD3F59002A34AA /* division_ganadora.swift */; };
 		BEFB38D92C13410D00CAD5D0 /* comparacion_cadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFB38D82C13410D00CAD5D0 /* comparacion_cadenas.swift */; };
 		BEFB38DB2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFB38DA2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift */; };
+		BEFB38DE2C13496600CAD5D0 /* creando_arreglos.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFB38DD2C13496600CAD5D0 /* creando_arreglos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -129,6 +130,7 @@
 		BEE81D472BFD3F59002A34AA /* division_ganadora.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_ganadora.swift; sourceTree = "<group>"; };
 		BEFB38D82C13410D00CAD5D0 /* comparacion_cadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = comparacion_cadenas.swift; sourceTree = "<group>"; };
 		BEFB38DA2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cadenas_prefijos_sufijos.swift; sourceTree = "<group>"; };
+		BEFB38DD2C13496600CAD5D0 /* creando_arreglos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = creando_arreglos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -226,6 +228,7 @@
 				BE2776F52B91650100C704C8 /* 02_condiciones */,
 				BE20E3712BC9671400449B90 /* 03_ciclos */,
 				BEE81D422BFD31D6002A34AA /* 04_funciones */,
+				BEFB38DC2C13494700CAD5D0 /* 05_arreglos */,
 				BE4D84252B7FAE5300B6504F /* 09_cadenas */,
 				BED3FAEC2B229A04004A0478 /* 10_manejo_de_errores */,
 				BEC1964A2B391BE4007E6192 /* 11_closures */,
@@ -280,6 +283,14 @@
 				BE1DA5B92C02ADA5003E0618 /* calculadora_calorias.swift */,
 			);
 			path = 04_funciones;
+			sourceTree = "<group>";
+		};
+		BEFB38DC2C13494700CAD5D0 /* 05_arreglos */ = {
+			isa = PBXGroup;
+			children = (
+				BEFB38DD2C13496600CAD5D0 /* creando_arreglos.swift */,
+			);
+			path = 05_arreglos;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -349,6 +360,7 @@
 				BEC853D32BA5DBDE00CEDAD1 /* ContarCaracteres.swift in Sources */,
 				BE72D0672B7F095E005A01DF /* FacturaRestaurante.swift in Sources */,
 				BE378E312B9571AF00EF170C /* mensaje_felicitacion.swift in Sources */,
+				BEFB38DE2C13496600CAD5D0 /* creando_arreglos.swift in Sources */,
 				BED25A3C2B1E8AF200133A14 /* main.swift in Sources */,
 				BEC1964E2B391DD2007E6192 /* Sumando.swift in Sources */,
 				BE72D0632B7F03B8005A01DF /* PrediccionVentas.swift in Sources */,

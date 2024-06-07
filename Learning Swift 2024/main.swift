@@ -8,5 +8,8 @@
 import Foundation
 
 print("Programando en Swift...")
-cadenasPrefijos()
-cadenasSufijos()
+func imprimirLinea(){
+    print(String(repeating: "-", count: 100))
+}
+
+creandoArreglos()
