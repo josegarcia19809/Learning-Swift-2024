@@ -8,4 +8,5 @@
 import Foundation
 
 print("Programando en Swift...")
-comparacionCadenas()
+cadenasPrefijos()
+cadenasSufijos()

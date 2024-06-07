@@ -59,6 +59,7 @@
 		BEE81D462BFD3979002A34AA /* area_rectangulo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D452BFD3979002A34AA /* area_rectangulo.swift */; };
 		BEE81D482BFD3F59002A34AA /* division_ganadora.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D472BFD3F59002A34AA /* division_ganadora.swift */; };
 		BEFB38D92C13410D00CAD5D0 /* comparacion_cadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFB38D82C13410D00CAD5D0 /* comparacion_cadenas.swift */; };
+		BEFB38DB2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFB38DA2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -127,6 +128,7 @@
 		BEE81D452BFD3979002A34AA /* area_rectangulo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area_rectangulo.swift; sourceTree = "<group>"; };
 		BEE81D472BFD3F59002A34AA /* division_ganadora.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_ganadora.swift; sourceTree = "<group>"; };
 		BEFB38D82C13410D00CAD5D0 /* comparacion_cadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = comparacion_cadenas.swift; sourceTree = "<group>"; };
+		BEFB38DA2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cadenas_prefijos_sufijos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +180,7 @@
 				BEC853D22BA5DBDD00CEDAD1 /* ContarCaracteres.swift */,
 				BE1DA5B72C02AC39003E0618 /* cadenas_indices_subcadenas.swift */,
 				BEFB38D82C13410D00CAD5D0 /* comparacion_cadenas.swift */,
+				BEFB38DA2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift */,
 			);
 			path = 09_cadenas;
 			sourceTree = "<group>";
@@ -372,6 +375,7 @@
 				AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */,
 				BE4D84242B7FA6C900B6504F /* TiposVariables.swift in Sources */,
 				BE20E3732BC9673B00449B90 /* do_while_producto_pares.swift in Sources */,
+				BEFB38DB2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift in Sources */,
 				BE4D84222B7FA45A00B6504F /* TextoMultilinea.swift in Sources */,
 				BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */,
 				BE378E332B95753200EF170C /* ManipulacionStrings.swift in Sources */,
