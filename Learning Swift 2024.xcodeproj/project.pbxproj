@@ -25,6 +25,7 @@
 		BE4D84242B7FA6C900B6504F /* TiposVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D84232B7FA6C900B6504F /* TiposVariables.swift */; };
 		BE4D84272B7FAE6A00B6504F /* BasicoCadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D84262B7FAE6A00B6504F /* BasicoCadenas.swift */; };
 		BE5051CE2BD6A9E60051F56A /* PrecipitacionMedia.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5051CD2BD6A9E60051F56A /* PrecipitacionMedia.swift */; };
+		BE661F5E2C15B3D500F3724C /* lista_compras.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE661F5D2C15B3D500F3724C /* lista_compras.swift */; };
 		BE72D0612B7F0205005A01DF /* Suma2Numeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0602B7F0205005A01DF /* Suma2Numeros.swift */; };
 		BE72D0632B7F03B8005A01DF /* PrediccionVentas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0622B7F03B8005A01DF /* PrediccionVentas.swift */; };
 		BE72D0652B7F0610005A01DF /* ImpuestoVentas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE72D0642B7F0610005A01DF /* ImpuestoVentas.swift */; };
@@ -94,6 +95,7 @@
 		BE4D84232B7FA6C900B6504F /* TiposVariables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TiposVariables.swift; sourceTree = "<group>"; };
 		BE4D84262B7FAE6A00B6504F /* BasicoCadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicoCadenas.swift; sourceTree = "<group>"; };
 		BE5051CD2BD6A9E60051F56A /* PrecipitacionMedia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrecipitacionMedia.swift; sourceTree = "<group>"; };
+		BE661F5D2C15B3D500F3724C /* lista_compras.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lista_compras.swift; sourceTree = "<group>"; };
 		BE72D0602B7F0205005A01DF /* Suma2Numeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Suma2Numeros.swift; sourceTree = "<group>"; };
 		BE72D0622B7F03B8005A01DF /* PrediccionVentas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrediccionVentas.swift; sourceTree = "<group>"; };
 		BE72D0642B7F0610005A01DF /* ImpuestoVentas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImpuestoVentas.swift; sourceTree = "<group>"; };
@@ -289,6 +291,7 @@
 			isa = PBXGroup;
 			children = (
 				BEFB38DD2C13496600CAD5D0 /* creando_arreglos.swift */,
+				BE661F5D2C15B3D500F3724C /* lista_compras.swift */,
 			);
 			path = 05_arreglos;
 			sourceTree = "<group>";
@@ -400,6 +403,7 @@
 				BE4D84202B7F9BEF00B6504F /* PedirEdad.swift in Sources */,
 				BE72D0612B7F0205005A01DF /* Suma2Numeros.swift in Sources */,
 				BE2776F92B9167DE00C704C8 /* taquilla_cine.swift in Sources */,
+				BE661F5E2C15B3D500F3724C /* lista_compras.swift in Sources */,
 				BE1DA5B82C02AC39003E0618 /* cadenas_indices_subcadenas.swift in Sources */,
 				BEB4872E2B96CAC1002C5A2B /* busqueda_secuencial_1.swift in Sources */,
 				BE4D84272B7FAE6A00B6504F /* BasicoCadenas.swift in Sources */,
