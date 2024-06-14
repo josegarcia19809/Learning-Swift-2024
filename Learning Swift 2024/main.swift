@@ -12,6 +12,4 @@ func imprimirLinea(){
     print(String(repeating: "-", count: 100))
 }
 
-conjuntos()
-operacionesConjuntos()
-subconjuntos()
+diccionarios()

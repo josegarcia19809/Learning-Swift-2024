@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE60E9557A19EC8AEA91958A /* Opcionales.swift */; };
+		BE05A4C52C1D038E00131216 /* diccionarios.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE05A4C42C1D038E00131216 /* diccionarios.swift */; };
 		BE1DA5B42C029D64003E0618 /* area_conduccion_mas_segura.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */; };
 		BE1DA5B62C02A6B2003E0618 /* distancia_caida.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B52C02A6B2003E0618 /* distancia_caida.swift */; };
 		BE1DA5B82C02AC39003E0618 /* cadenas_indices_subcadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B72C02AC39003E0618 /* cadenas_indices_subcadenas.swift */; };
@@ -82,6 +83,7 @@
 
 /* Begin PBXFileReference section */
 		AE60E9557A19EC8AEA91958A /* Opcionales.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Opcionales.swift; sourceTree = "<group>"; };
+		BE05A4C42C1D038E00131216 /* diccionarios.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diccionarios.swift; sourceTree = "<group>"; };
 		BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area_conduccion_mas_segura.swift; sourceTree = "<group>"; };
 		BE1DA5B52C02A6B2003E0618 /* distancia_caida.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = distancia_caida.swift; sourceTree = "<group>"; };
 		BE1DA5B72C02AC39003E0618 /* cadenas_indices_subcadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cadenas_indices_subcadenas.swift; sourceTree = "<group>"; };
@@ -303,6 +305,7 @@
 				BEECC2BF2C1BE55900CF29B8 /* conjuntos.swift */,
 				BEECC2C12C1BEA8B00CF29B8 /* operaciones_conjuntos.swift */,
 				BEECC2C32C1BF09300CF29B8 /* subconjuntos.swift */,
+				BE05A4C42C1D038E00131216 /* diccionarios.swift */,
 			);
 			path = 06_colecciones;
 			sourceTree = "<group>";
@@ -402,6 +405,7 @@
 				BEB487272B96C624002C5A2B /* angulo_recto.swift in Sources */,
 				BE7D065C2C0023110014F2EE /* sucesion_aritmetica_1.swift in Sources */,
 				BED3FAF22B22A11A004A0478 /* LaExpulsion.swift in Sources */,
+				BE05A4C52C1D038E00131216 /* diccionarios.swift in Sources */,
 				BEE81D482BFD3F59002A34AA /* division_ganadora.swift in Sources */,
 				BED3FAEE2B229C4B004A0478 /* AssertEdad.swift in Sources */,
 				BE2776F72B91652400C704C8 /* division_entre_cero.swift in Sources */,
