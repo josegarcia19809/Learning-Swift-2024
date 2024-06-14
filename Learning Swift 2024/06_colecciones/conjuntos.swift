@@ -18,7 +18,7 @@ func conjuntos(){
     imprimirLinea()
     
     var favouriteFoods : Set<String> = ["Pizza", "Macarrones", "Ensalada"]
-    var moreFoods : Set = ["Pescado", "Carne"]
+    let moreFoods : Set = ["Pescado", "Carne"]
     
     print("Comidas favoritas tiene \(favouriteFoods.count) platos")
     if favouriteFoods.isEmpty {
