@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE60E9557A19EC8AEA91958A /* Opcionales.swift */; };
 		BE05A4C52C1D038E00131216 /* diccionarios.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE05A4C42C1D038E00131216 /* diccionarios.swift */; };
+		BE05A4C72C1D304700131216 /* usando_stride_for.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE05A4C62C1D304700131216 /* usando_stride_for.swift */; };
 		BE1DA5B42C029D64003E0618 /* area_conduccion_mas_segura.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */; };
 		BE1DA5B62C02A6B2003E0618 /* distancia_caida.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B52C02A6B2003E0618 /* distancia_caida.swift */; };
 		BE1DA5B82C02AC39003E0618 /* cadenas_indices_subcadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE1DA5B72C02AC39003E0618 /* cadenas_indices_subcadenas.swift */; };
@@ -84,6 +85,7 @@
 /* Begin PBXFileReference section */
 		AE60E9557A19EC8AEA91958A /* Opcionales.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Opcionales.swift; sourceTree = "<group>"; };
 		BE05A4C42C1D038E00131216 /* diccionarios.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = diccionarios.swift; sourceTree = "<group>"; };
+		BE05A4C62C1D304700131216 /* usando_stride_for.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = usando_stride_for.swift; sourceTree = "<group>"; };
 		BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area_conduccion_mas_segura.swift; sourceTree = "<group>"; };
 		BE1DA5B52C02A6B2003E0618 /* distancia_caida.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = distancia_caida.swift; sourceTree = "<group>"; };
 		BE1DA5B72C02AC39003E0618 /* cadenas_indices_subcadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cadenas_indices_subcadenas.swift; sourceTree = "<group>"; };
@@ -168,6 +170,7 @@
 				BE7D065F2C002E3C0014F2EE /* sucesion_aritmetica_3.swift */,
 				BE7D06612C0030DB0014F2EE /* sucesion_aritmetica_4.swift */,
 				BEECC2BC2C1B53F400CF29B8 /* seleccionar_menor_examen.swift */,
+				BE05A4C62C1D304700131216 /* usando_stride_for.swift */,
 			);
 			path = 03_ciclos;
 			sourceTree = "<group>";
@@ -415,6 +418,7 @@
 				AE60E32BFA131C3AE9BBB120 /* Opcionales.swift in Sources */,
 				BE4D84242B7FA6C900B6504F /* TiposVariables.swift in Sources */,
 				BE20E3732BC9673B00449B90 /* do_while_producto_pares.swift in Sources */,
+				BE05A4C72C1D304700131216 /* usando_stride_for.swift in Sources */,
 				BEFB38DB2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift in Sources */,
 				BE4D84222B7FA45A00B6504F /* TextoMultilinea.swift in Sources */,
 				BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */,
