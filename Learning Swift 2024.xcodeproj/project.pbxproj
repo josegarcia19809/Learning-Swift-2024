@@ -71,6 +71,7 @@
 		BEFF89B12C205BF500C444EC /* switch_ejemplos.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFF89B02C205BF500C444EC /* switch_ejemplos.swift */; };
 		BEFF89B32C20637E00C444EC /* transferencia_de_control.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFF89B22C20637E00C444EC /* transferencia_de_control.swift */; };
 		BEFF89B52C2065CA00C444EC /* sentencias_nominales.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFF89B42C2065CA00C444EC /* sentencias_nominales.swift */; };
+		BEFF89B72C2069CD00C444EC /* validacion_con_guard.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFF89B62C2069CD00C444EC /* validacion_con_guard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -151,6 +152,7 @@
 		BEFF89B02C205BF500C444EC /* switch_ejemplos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = switch_ejemplos.swift; sourceTree = "<group>"; };
 		BEFF89B22C20637E00C444EC /* transferencia_de_control.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = transferencia_de_control.swift; sourceTree = "<group>"; };
 		BEFF89B42C2065CA00C444EC /* sentencias_nominales.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sentencias_nominales.swift; sourceTree = "<group>"; };
+		BEFF89B62C2069CD00C444EC /* validacion_con_guard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = validacion_con_guard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +197,7 @@
 				BEB487282B96C6FE002C5A2B /* temperatura.swift */,
 				BEB4872A2B96C7DC002C5A2B /* velocidad.swift */,
 				BEFF89B02C205BF500C444EC /* switch_ejemplos.swift */,
+				BEFF89B62C2069CD00C444EC /* validacion_con_guard.swift */,
 			);
 			path = 02_condiciones;
 			sourceTree = "<group>";
@@ -393,6 +396,7 @@
 				BED3FAF62B22A194004A0478 /* LaContrasenia.swift in Sources */,
 				BE378E2F2B9570E300EF170C /* condicion_imprimir.swift in Sources */,
 				BE4D841E2B7F9B6C00B6504F /* HolaMundo.swift in Sources */,
+				BEFF89B72C2069CD00C444EC /* validacion_con_guard.swift in Sources */,
 				BE7D065E2C0026B70014F2EE /* sucesion_aritmetica_2.swift in Sources */,
 				BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */,
 				BEC853D32BA5DBDE00CEDAD1 /* ContarCaracteres.swift in Sources */,

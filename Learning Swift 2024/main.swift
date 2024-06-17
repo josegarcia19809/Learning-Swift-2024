@@ -12,4 +12,4 @@ func imprimirLinea(){
     print(String(repeating: "-", count: 100))
 }
 
-imprimir_1_100()
+usarSaludo()
