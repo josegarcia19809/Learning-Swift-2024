@@ -12,8 +12,6 @@ func imprimirLinea(){
     print(String(repeating: "-", count: 100))
 }
 
-letraInicial()
-posibleVocal()
-usandoRangos()
-usandoTuplas()
-variosCaracteres()
+usarContinue()
+usarBreak()
+usarFallthrough()
