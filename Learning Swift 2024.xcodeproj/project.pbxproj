@@ -68,6 +68,7 @@
 		BEFB38D92C13410D00CAD5D0 /* comparacion_cadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFB38D82C13410D00CAD5D0 /* comparacion_cadenas.swift */; };
 		BEFB38DB2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFB38DA2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift */; };
 		BEFB38DE2C13496600CAD5D0 /* creando_arreglos.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFB38DD2C13496600CAD5D0 /* creando_arreglos.swift */; };
+		BEFF89B12C205BF500C444EC /* switch_ejemplos.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEFF89B02C205BF500C444EC /* switch_ejemplos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -145,6 +146,7 @@
 		BEFB38D82C13410D00CAD5D0 /* comparacion_cadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = comparacion_cadenas.swift; sourceTree = "<group>"; };
 		BEFB38DA2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cadenas_prefijos_sufijos.swift; sourceTree = "<group>"; };
 		BEFB38DD2C13496600CAD5D0 /* creando_arreglos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = creando_arreglos.swift; sourceTree = "<group>"; };
+		BEFF89B02C205BF500C444EC /* switch_ejemplos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = switch_ejemplos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -186,6 +188,7 @@
 				BEB487262B96C624002C5A2B /* angulo_recto.swift */,
 				BEB487282B96C6FE002C5A2B /* temperatura.swift */,
 				BEB4872A2B96C7DC002C5A2B /* velocidad.swift */,
+				BEFF89B02C205BF500C444EC /* switch_ejemplos.swift */,
 			);
 			path = 02_condiciones;
 			sourceTree = "<group>";
@@ -412,6 +415,7 @@
 				BEE81D482BFD3F59002A34AA /* division_ganadora.swift in Sources */,
 				BED3FAEE2B229C4B004A0478 /* AssertEdad.swift in Sources */,
 				BE2776F72B91652400C704C8 /* division_entre_cero.swift in Sources */,
+				BEFF89B12C205BF500C444EC /* switch_ejemplos.swift in Sources */,
 				BEC196502B39208F007E6192 /* ProcesandoClosures.swift in Sources */,
 				BEFB38D92C13410D00CAD5D0 /* comparacion_cadenas.swift in Sources */,
 				BEB4872B2B96C7DC002C5A2B /* velocidad.swift in Sources */,
