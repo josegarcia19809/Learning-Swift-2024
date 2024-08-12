@@ -21,6 +21,7 @@
 		BE378E2F2B9570E300EF170C /* condicion_imprimir.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE378E2E2B9570E300EF170C /* condicion_imprimir.swift */; };
 		BE378E312B9571AF00EF170C /* mensaje_felicitacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE378E302B9571AF00EF170C /* mensaje_felicitacion.swift */; };
 		BE378E332B95753200EF170C /* ManipulacionStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE378E322B95753200EF170C /* ManipulacionStrings.swift */; };
+		BE3795942C69A32F003A4355 /* parametros_multiples.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE3795932C69A32F003A4355 /* parametros_multiples.swift */; };
 		BE4D841E2B7F9B6C00B6504F /* HolaMundo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D841D2B7F9B6C00B6504F /* HolaMundo.swift */; };
 		BE4D84202B7F9BEF00B6504F /* PedirEdad.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D841F2B7F9BEF00B6504F /* PedirEdad.swift */; };
 		BE4D84222B7FA45A00B6504F /* TextoMultilinea.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4D84212B7FA45A00B6504F /* TextoMultilinea.swift */; };
@@ -101,6 +102,7 @@
 		BE378E2E2B9570E300EF170C /* condicion_imprimir.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = condicion_imprimir.swift; sourceTree = "<group>"; };
 		BE378E302B9571AF00EF170C /* mensaje_felicitacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mensaje_felicitacion.swift; sourceTree = "<group>"; };
 		BE378E322B95753200EF170C /* ManipulacionStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManipulacionStrings.swift; sourceTree = "<group>"; };
+		BE3795932C69A32F003A4355 /* parametros_multiples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parametros_multiples.swift; sourceTree = "<group>"; };
 		BE4D841D2B7F9B6C00B6504F /* HolaMundo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HolaMundo.swift; sourceTree = "<group>"; };
 		BE4D841F2B7F9BEF00B6504F /* PedirEdad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PedirEdad.swift; sourceTree = "<group>"; };
 		BE4D84212B7FA45A00B6504F /* TextoMultilinea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextoMultilinea.swift; sourceTree = "<group>"; };
@@ -310,6 +312,7 @@
 				BE1DA5B32C029D64003E0618 /* area_conduccion_mas_segura.swift */,
 				BE1DA5B52C02A6B2003E0618 /* distancia_caida.swift */,
 				BE1DA5B92C02ADA5003E0618 /* calculadora_calorias.swift */,
+				BE3795932C69A32F003A4355 /* parametros_multiples.swift */,
 			);
 			path = 04_funciones;
 			sourceTree = "<group>";
@@ -451,6 +454,7 @@
 				BE2776F92B9167DE00C704C8 /* taquilla_cine.swift in Sources */,
 				BE661F5E2C15B3D500F3724C /* lista_compras.swift in Sources */,
 				BEECC2C02C1BE55900CF29B8 /* conjuntos.swift in Sources */,
+				BE3795942C69A32F003A4355 /* parametros_multiples.swift in Sources */,
 				BE1DA5B82C02AC39003E0618 /* cadenas_indices_subcadenas.swift in Sources */,
 				BEB4872E2B96CAC1002C5A2B /* busqueda_secuencial_1.swift in Sources */,
 				BEECC2C22C1BEA8B00CF29B8 /* operaciones_conjuntos.swift in Sources */,
