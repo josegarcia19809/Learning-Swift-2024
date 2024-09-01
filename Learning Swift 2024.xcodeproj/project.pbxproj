@@ -60,6 +60,10 @@
 		BED3FAF82B22A205004A0478 /* LaClaveDeLosCofres.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAF72B22A205004A0478 /* LaClaveDeLosCofres.swift */; };
 		BED3FAFA2B22A22F004A0478 /* RacionamientoDelRon.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAF92B22A22F004A0478 /* RacionamientoDelRon.swift */; };
 		BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */; };
+		BED93B162C8417A400DBDAAD /* calcular_area_rectangulo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED93B152C8417A400DBDAAD /* calcular_area_rectangulo.swift */; };
+		BED93B182C8419D400DBDAAD /* descripcion_libro.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED93B172C8419D400DBDAAD /* descripcion_libro.swift */; };
+		BED93B1A2C841BA900DBDAAD /* precio_final.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED93B192C841BA900DBDAAD /* precio_final.swift */; };
+		BED93B1C2C841EDB00DBDAAD /* sumar_conjunto_numeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED93B1B2C841EDB00DBDAAD /* sumar_conjunto_numeros.swift */; };
 		BEE81D442BFD3231002A34AA /* aumento_precio.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D432BFD3231002A34AA /* aumento_precio.swift */; };
 		BEE81D462BFD3979002A34AA /* area_rectangulo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D452BFD3979002A34AA /* area_rectangulo.swift */; };
 		BEE81D482BFD3F59002A34AA /* division_ganadora.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D472BFD3F59002A34AA /* division_ganadora.swift */; };
@@ -143,6 +147,10 @@
 		BED3FAF72B22A205004A0478 /* LaClaveDeLosCofres.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaClaveDeLosCofres.swift; sourceTree = "<group>"; };
 		BED3FAF92B22A22F004A0478 /* RacionamientoDelRon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RacionamientoDelRon.swift; sourceTree = "<group>"; };
 		BED3FAFB2B22A27B004A0478 /* InteligenciaPirata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteligenciaPirata.swift; sourceTree = "<group>"; };
+		BED93B152C8417A400DBDAAD /* calcular_area_rectangulo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calcular_area_rectangulo.swift; sourceTree = "<group>"; };
+		BED93B172C8419D400DBDAAD /* descripcion_libro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = descripcion_libro.swift; sourceTree = "<group>"; };
+		BED93B192C841BA900DBDAAD /* precio_final.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = precio_final.swift; sourceTree = "<group>"; };
+		BED93B1B2C841EDB00DBDAAD /* sumar_conjunto_numeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sumar_conjunto_numeros.swift; sourceTree = "<group>"; };
 		BEE81D432BFD3231002A34AA /* aumento_precio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aumento_precio.swift; sourceTree = "<group>"; };
 		BEE81D452BFD3979002A34AA /* area_rectangulo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area_rectangulo.swift; sourceTree = "<group>"; };
 		BEE81D472BFD3F59002A34AA /* division_ganadora.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_ganadora.swift; sourceTree = "<group>"; };
@@ -316,6 +324,10 @@
 				BE1DA5B92C02ADA5003E0618 /* calculadora_calorias.swift */,
 				BE3795932C69A32F003A4355 /* parametros_multiples.swift */,
 				BE3795952C69A490003A4355 /* multiples_valores_retorno.swift */,
+				BED93B152C8417A400DBDAAD /* calcular_area_rectangulo.swift */,
+				BED93B172C8419D400DBDAAD /* descripcion_libro.swift */,
+				BED93B192C841BA900DBDAAD /* precio_final.swift */,
+				BED93B1B2C841EDB00DBDAAD /* sumar_conjunto_numeros.swift */,
 			);
 			path = 04_funciones;
 			sourceTree = "<group>";
@@ -407,6 +419,7 @@
 				BED25A442B1E8CA700133A14 /* Condiciones.swift in Sources */,
 				BEC853D32BA5DBDE00CEDAD1 /* ContarCaracteres.swift in Sources */,
 				BEFF89B52C2065CA00C444EC /* sentencias_nominales.swift in Sources */,
+				BED93B182C8419D400DBDAAD /* descripcion_libro.swift in Sources */,
 				BE72D0672B7F095E005A01DF /* FacturaRestaurante.swift in Sources */,
 				BE378E312B9571AF00EF170C /* mensaje_felicitacion.swift in Sources */,
 				BEFB38DE2C13496600CAD5D0 /* creando_arreglos.swift in Sources */,
@@ -458,10 +471,13 @@
 				BE2776F92B9167DE00C704C8 /* taquilla_cine.swift in Sources */,
 				BE661F5E2C15B3D500F3724C /* lista_compras.swift in Sources */,
 				BEECC2C02C1BE55900CF29B8 /* conjuntos.swift in Sources */,
+				BED93B1C2C841EDB00DBDAAD /* sumar_conjunto_numeros.swift in Sources */,
 				BE3795942C69A32F003A4355 /* parametros_multiples.swift in Sources */,
 				BE1DA5B82C02AC39003E0618 /* cadenas_indices_subcadenas.swift in Sources */,
 				BEB4872E2B96CAC1002C5A2B /* busqueda_secuencial_1.swift in Sources */,
+				BED93B162C8417A400DBDAAD /* calcular_area_rectangulo.swift in Sources */,
 				BEECC2C22C1BEA8B00CF29B8 /* operaciones_conjuntos.swift in Sources */,
+				BED93B1A2C841BA900DBDAAD /* precio_final.swift in Sources */,
 				BE4D84272B7FAE6A00B6504F /* BasicoCadenas.swift in Sources */,
 				BED3FAFA2B22A22F004A0478 /* RacionamientoDelRon.swift in Sources */,
 				BE5051CE2BD6A9E60051F56A /* PrecipitacionMedia.swift in Sources */,
