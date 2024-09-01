@@ -64,6 +64,7 @@
 		BED93B182C8419D400DBDAAD /* descripcion_libro.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED93B172C8419D400DBDAAD /* descripcion_libro.swift */; };
 		BED93B1A2C841BA900DBDAAD /* precio_final.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED93B192C841BA900DBDAAD /* precio_final.swift */; };
 		BED93B1C2C841EDB00DBDAAD /* sumar_conjunto_numeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED93B1B2C841EDB00DBDAAD /* sumar_conjunto_numeros.swift */; };
+		BED93B1E2C8420A900DBDAAD /* intercambiar_cadenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED93B1D2C8420A900DBDAAD /* intercambiar_cadenas.swift */; };
 		BEE81D442BFD3231002A34AA /* aumento_precio.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D432BFD3231002A34AA /* aumento_precio.swift */; };
 		BEE81D462BFD3979002A34AA /* area_rectangulo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D452BFD3979002A34AA /* area_rectangulo.swift */; };
 		BEE81D482BFD3F59002A34AA /* division_ganadora.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEE81D472BFD3F59002A34AA /* division_ganadora.swift */; };
@@ -151,6 +152,7 @@
 		BED93B172C8419D400DBDAAD /* descripcion_libro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = descripcion_libro.swift; sourceTree = "<group>"; };
 		BED93B192C841BA900DBDAAD /* precio_final.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = precio_final.swift; sourceTree = "<group>"; };
 		BED93B1B2C841EDB00DBDAAD /* sumar_conjunto_numeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sumar_conjunto_numeros.swift; sourceTree = "<group>"; };
+		BED93B1D2C8420A900DBDAAD /* intercambiar_cadenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = intercambiar_cadenas.swift; sourceTree = "<group>"; };
 		BEE81D432BFD3231002A34AA /* aumento_precio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aumento_precio.swift; sourceTree = "<group>"; };
 		BEE81D452BFD3979002A34AA /* area_rectangulo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area_rectangulo.swift; sourceTree = "<group>"; };
 		BEE81D472BFD3F59002A34AA /* division_ganadora.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_ganadora.swift; sourceTree = "<group>"; };
@@ -328,6 +330,7 @@
 				BED93B172C8419D400DBDAAD /* descripcion_libro.swift */,
 				BED93B192C841BA900DBDAAD /* precio_final.swift */,
 				BED93B1B2C841EDB00DBDAAD /* sumar_conjunto_numeros.swift */,
+				BED93B1D2C8420A900DBDAAD /* intercambiar_cadenas.swift */,
 			);
 			path = 04_funciones;
 			sourceTree = "<group>";
@@ -454,6 +457,7 @@
 				BE20E3732BC9673B00449B90 /* do_while_producto_pares.swift in Sources */,
 				BE05A4C72C1D304700131216 /* usando_stride_for.swift in Sources */,
 				BEFB38DB2C1342D200CAD5D0 /* cadenas_prefijos_sufijos.swift in Sources */,
+				BED93B1E2C8420A900DBDAAD /* intercambiar_cadenas.swift in Sources */,
 				BE4D84222B7FA45A00B6504F /* TextoMultilinea.swift in Sources */,
 				BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */,
 				BE378E332B95753200EF170C /* ManipulacionStrings.swift in Sources */,
