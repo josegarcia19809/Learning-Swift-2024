@@ -38,6 +38,7 @@
 		BE7D065E2C0026B70014F2EE /* sucesion_aritmetica_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7D065D2C0026B70014F2EE /* sucesion_aritmetica_2.swift */; };
 		BE7D06602C002E3C0014F2EE /* sucesion_aritmetica_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7D065F2C002E3C0014F2EE /* sucesion_aritmetica_3.swift */; };
 		BE7D06622C0030DB0014F2EE /* sucesion_aritmetica_4.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7D06612C0030DB0014F2EE /* sucesion_aritmetica_4.swift */; };
+		BE841C7A2D0F578D00E8BD77 /* funcion_como_tipo_de_retorno2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE841C792D0F578000E8BD77 /* funcion_como_tipo_de_retorno2.swift */; };
 		BEB487252B96C46A002C5A2B /* division_entre_cero_v2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487242B96C46A002C5A2B /* division_entre_cero_v2.swift */; };
 		BEB487272B96C624002C5A2B /* angulo_recto.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487262B96C624002C5A2B /* angulo_recto.swift */; };
 		BEB487292B96C6FE002C5A2B /* temperatura.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEB487282B96C6FE002C5A2B /* temperatura.swift */; };
@@ -128,6 +129,7 @@
 		BE7D065D2C0026B70014F2EE /* sucesion_aritmetica_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sucesion_aritmetica_2.swift; sourceTree = "<group>"; };
 		BE7D065F2C002E3C0014F2EE /* sucesion_aritmetica_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sucesion_aritmetica_3.swift; sourceTree = "<group>"; };
 		BE7D06612C0030DB0014F2EE /* sucesion_aritmetica_4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sucesion_aritmetica_4.swift; sourceTree = "<group>"; };
+		BE841C792D0F578000E8BD77 /* funcion_como_tipo_de_retorno2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = funcion_como_tipo_de_retorno2.swift; sourceTree = "<group>"; };
 		BEB487242B96C46A002C5A2B /* division_entre_cero_v2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = division_entre_cero_v2.swift; sourceTree = "<group>"; };
 		BEB487262B96C624002C5A2B /* angulo_recto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = angulo_recto.swift; sourceTree = "<group>"; };
 		BEB487282B96C6FE002C5A2B /* temperatura.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = temperatura.swift; sourceTree = "<group>"; };
@@ -324,6 +326,7 @@
 		BEE81D422BFD31D6002A34AA /* 04_funciones */ = {
 			isa = PBXGroup;
 			children = (
+				BE841C792D0F578000E8BD77 /* funcion_como_tipo_de_retorno2.swift */,
 				BEF5AAD62D0E97EF00A7258C /* funcion_como_tipo_de_retorno.swift */,
 				BEF5AAD42D0E94A300A7258C /* funcion_como_parametro.swift */,
 				BEF5AAD22D0E8EC600A7258C /* funcion_como_tipo_de_dato.swift */,
@@ -444,6 +447,7 @@
 				BEC1964C2B391C00007E6192 /* Multiplicacion.swift in Sources */,
 				BE378E2D2B956EF600EF170C /* bonificacion.swift in Sources */,
 				BE1DA5BA2C02ADA5003E0618 /* calculadora_calorias.swift in Sources */,
+				BE841C7A2D0F578D00E8BD77 /* funcion_como_tipo_de_retorno2.swift in Sources */,
 				BEF5AAD32D0E8ED400A7258C /* funcion_como_tipo_de_dato.swift in Sources */,
 				BED3FAF42B22A162004A0478 /* IncorporacionDePiratas.swift in Sources */,
 				BED3FAFC2B22A27B004A0478 /* InteligenciaPirata.swift in Sources */,
