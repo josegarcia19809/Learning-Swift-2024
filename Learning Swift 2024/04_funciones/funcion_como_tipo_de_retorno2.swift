@@ -26,3 +26,28 @@ func funcionDentroDeOtraFuncion(){
     }
     print("Cero...")
 }
+
+/*
+ La función chooseStepFunction2 es una variante de chooseStepFunction, pero en lugar de usar
+ funciones globales (stepForward y stepBackward), define funciones locales dentro de su propio
+ alcance (newStepForward y newStepBackward). Esto hace que estas funciones sean accesibles
+ solo dentro de chooseStepFunction2.
+
+ Explicación detallada
+ Definición de funciones locales:
+
+ newStepForward: Incrementa el entero recibido como parámetro en 1.
+ newStepBackward: Decrementa el entero recibido como parámetro en 1.
+ 
+ Estas funciones están definidas dentro de chooseStepFunction2, lo que significa que no pueden
+ ser llamadas desde fuera de esta función.
+
+ Retorno de una función basada en el parámetro backward:
+
+ Si backward es true, se devuelve newStepBackward.
+ Si backward es false, se devuelve newStepForward.
+ 
+ Alcance de las funciones: newStepForward y newStepBackward están definidas dentro de
+ chooseStepFunction2 y son funciones locales, lo que hace el código más encapsulado y
+ reduce la posibilidad de conflictos de nombres.
+ */
