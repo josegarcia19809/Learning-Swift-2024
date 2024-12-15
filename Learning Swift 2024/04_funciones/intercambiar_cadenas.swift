@@ -15,12 +15,12 @@ func swapStrings(_ a: inout String, _ b: inout String) {
 
 /**
  En este ejemplo:
-
- La función swapStrings toma dos parámetros inout de tipo String. 
+ 
+ La función swapStrings toma dos parámetros inout de tipo String.
  Esto permite que las cadenas sean modificadas dentro de la función y que los cambios
  se reflejen fuera de ella.
  La función intercambia los valores de las dos cadenas utilizando una variable temporal temp.
- Al llamar a swapStrings, pasamos las variables string1 y string2 usando el símbolo & 
+ Al llamar a swapStrings, pasamos las variables string1 y string2 usando el símbolo &
  para indicar que son parámetros inout.
  Finalmente, se imprime el resultado para mostrar que las cadenas han sido intercambiadas.
  */

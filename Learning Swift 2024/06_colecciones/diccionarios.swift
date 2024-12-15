@@ -14,7 +14,7 @@ func diccionarios(){
     integerNames = [:]
     imprimirLinea()
     
-    var pass = ["Inglés": true, "Matemáticas": false, "Ciencias": true]
+    let pass = ["Inglés": true, "Matemáticas": false, "Ciencias": true]
     print(pass)
     imprimirLinea()
     
